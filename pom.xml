@@ -10,9 +10,27 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>feixiang-netty</module>
+        <module>feixiang-web</module>
     </modules>
 
+    <properties>
+        <!--<spring.version>4.0.2.RELEASE</spring.version>-->
+        <spring-boot.version>2.1.3.RELEASE</spring-boot.version>
+    </properties>
+
     <dependencies>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework</groupId>-->
+            <!--<artifactId>spring-core</artifactId>-->
+            <!--<version>${spring.version}</version>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+            <!--<groupId>org.springframework</groupId>-->
+            <!--<artifactId>spring-webmvc</artifactId>-->
+            <!--<version>${spring.version}</version>-->
+        <!--</dependency>-->
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
