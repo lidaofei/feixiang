@@ -13,6 +13,8 @@ public class GcController {
     @RequestMapping("/testgc")
     public String testGc(){
         System.out.println("111");
+        String str = "11";
+        str.intern();
         return "hello";
     }
 
@@ -26,7 +28,7 @@ public class GcController {
         System.out.println("222");
         try{
             while (true){
-                byte[] b = new byte[8*1024*1024];
+                byte[] b = new byte[1024*1024];
                 list.add(b);
                 System.out.println(list.size());
             }
@@ -36,6 +38,9 @@ public class GcController {
         }
 
     }
+
+
+
 
     /**
      * OutOfMemoryError：内存溢出
@@ -80,7 +85,6 @@ public class GcController {
             }
             System.out.println(list.size());
         } catch (Exception e) {
-            System.out.println(list.size());
             e.printStackTrace();
         }
     }
