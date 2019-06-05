@@ -13,6 +13,8 @@ public class GcController {
     @RequestMapping("/testgc")
     public String testGc(){
         System.out.println("111");
+        String str = "11";
+        str.intern();
         return "hello";
     }
 
@@ -26,7 +28,7 @@ public class GcController {
         System.out.println("222");
         try{
             while (true){
-                byte[] b = new byte[8*1024*1024];
+                byte[] b = new byte[1024*1024];
                 list.add(b);
                 System.out.println(list.size());
             }
@@ -36,6 +38,9 @@ public class GcController {
         }
 
     }
+
+
+
 
     /**
      * OutOfMemoryError：内存溢出
@@ -80,7 +85,6 @@ public class GcController {
             }
             System.out.println(list.size());
         } catch (Exception e) {
-            System.out.println(list.size());
             e.printStackTrace();
         }
     }
@@ -112,6 +116,20 @@ public class GcController {
         stackOverflow();
     }
 
+    private static final int _1MB = 1024 * 1024;
+    /**
+     *  VM参数：-verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:MaxTenuringThreshold=1
+     * 长期存在的对象进入老年代，age设定
+     */
+    @RequestMapping("testTenuringThreshold")
+    public void testTenuringThreshold(){
+        byte[] allocation1, allocation2, allocation3;
+        allocation1 = new byte[_1MB / 4];  // 什么时候进入老年代决定于XX:MaxTenuringThreshold设置
+        allocation2 = new byte[4 * _1MB];
+        allocation3 = new byte[4 * _1MB];
+        allocation3 = null;
+        allocation3 = new byte[4 * _1MB];
+    }
 
 
 }

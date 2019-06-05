@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestStackDeep" type="Application" factoryName="Application" editBeforeRun="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.feixiang.web.jvm.java栈.TestStackDeep" />
+    <module name="feixiang-web" />
+    <option name="VM_PARAMETERS" value="-Xms50M -Xmx50M -Xmn20M -Xss1m -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:MaxTenuringThreshold=1 -XX:+PrintHeapAtGC -XX:+PrintVMOptions" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.feixiang.web.jvm.java栈.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
