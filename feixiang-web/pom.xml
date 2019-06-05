@@ -24,6 +24,29 @@
             <version>${spring-boot.version}</version>
             <scope>test</scope>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/net.sf.cglib/cglib-nodep-javadoc -->
+        <!--<dependency>-->
+            <!--<groupId>net.sf.cglib</groupId>-->
+            <!--<artifactId>cglib-nodep-javadoc</artifactId>-->
+            <!--<version>2.2</version>-->
+        <!--</dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/cglib/cglib -->
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>2.2.2</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/cglib/cglib-nodep -->
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib-nodep</artifactId>
+            <version>2.2.2</version>
+        </dependency>
+
+
     </dependencies>
 
 </project>
