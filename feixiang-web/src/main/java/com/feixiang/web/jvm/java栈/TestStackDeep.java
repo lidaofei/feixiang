@@ -2,7 +2,7 @@ package com.feixiang.web.jvm.java栈;
 
 /**
  * 栈溢出
- * -Xss1m
+ * 1.设置单个栈大小 -Xss1m
  * @author Administrator
  *
  */
