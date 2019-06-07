@@ -19,12 +19,12 @@ import java.util.concurrent.locks.ReentrantLock;
 public class DeadLockController {
 
     final static Logger logger = Logger.getLogger(DeadLockController.class);
+    static ReentrantLock south = new ReentrantLock();
+    static ReentrantLock north = new ReentrantLock();
 
     @RequestMapping("/lock")
     public void lock() throws InterruptedException {
         logger.info("DeadLockController.lock() start");
-        ReentrantLock south = new ReentrantLock();
-        ReentrantLock north = new ReentrantLock();
         DeadLock car2south = new DeadLock(south);
         DeadLock car2north = new DeadLock(north);
         car2south.start();
