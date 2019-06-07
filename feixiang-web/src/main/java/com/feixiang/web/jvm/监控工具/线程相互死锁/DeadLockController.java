@@ -4,6 +4,8 @@ import org.apache.log4j.Logger;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
@@ -29,5 +31,15 @@ public class DeadLockController {
         car2north.start();
         Thread.sleep(1000);
         logger.info("DeadLockController.lock() end");
+    }
+
+    @RequestMapping("/threadNum")
+    public void threadNum(){
+        logger.info("DeadLockController.threadNum() start");
+        List<User> userList = new ArrayList<User>();
+        for(int i=0;i<10000;i++){
+            userList.add(new User(Long.parseLong(i+""),"user"+i));
+        }
+        logger.info("DeadLockController.threadNum() end");
     }
 }
