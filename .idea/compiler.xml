@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="feixiang-netty" />
+        <module name="feixiang-spring-web" />
+        <module name="feixiang-spring-webtwo" />
         <module name="feixiang-web" />
         <module name="feixiangweb" />
       </profile>
