@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="feixiang-netty" />
+        <module name="feixiang-rpc-custom-client" />
+        <module name="feixiang-rpc-custom-service" />
+        <module name="feixiang-rpc-demo" />
         <module name="feixiang-spring-web" />
         <module name="feixiang-spring-webtwo" />
         <module name="feixiang-web" />
         <module name="feixiangweb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

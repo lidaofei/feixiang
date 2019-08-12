@@ -13,6 +13,7 @@
         <module>feixiang-web</module>
         <module>feixiang-spring-web</module>
         <module>feixiang-spring-webtwo</module>
+        <module>feixiang-rpc</module>
     </modules>
 
     <dependencyManagement>
