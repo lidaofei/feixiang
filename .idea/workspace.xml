@@ -2,31 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/TestStackDeep.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/TestStackDeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/DumpOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/PermOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/年轻代/NewSizeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/软引用/SoftRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/BeanGeneratorObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/CglibBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/PermTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/feixiang/rabbitmq/service/demo/Producer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/controller/GcController.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/controller/GcController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomServiceSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomServiceSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/feixiang-netty/target/" />
     <ignored path="$PROJECT_DIR$/feixiang-web/target/" />
+    <ignored path="$PROJECT_DIR$/feixiang-rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/" />
+    <ignored path="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,97 +41,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java">
+        <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2.java">
+        <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/PermTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/CglibBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="183">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/BeanGeneratorObj.java">
+        <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/feixiang/rabbitmq/service/demo/Producer02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="102">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.java">
+        <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/PermOOM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/TestStackDeep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="210">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -183,7 +117,6 @@
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/TestStackDeep.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/TestStackDeep.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.java" />
-        <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/PermTest.java" />
@@ -198,6 +131,11 @@
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/PermOOM.java" />
         <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/TestStackDeep.java" />
+        <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java" />
+        <option value="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/pom.xml" />
+        <option value="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/pom.xml" />
+        <option value="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/feixiang/rabbitmq/service/demo/Producer02.java" />
       </list>
     </option>
   </component>
@@ -239,8 +177,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -260,161 +198,48 @@
             <path>
               <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
               <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-netty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
               <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
               <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
               <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="feixiang-rabbitmq-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="java栈" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="java栈" type="462c0819:PsiDirectoryNode" />
-              <item name="栈上分配" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="java栈" type="462c0819:PsiDirectoryNode" />
-              <item name="局部变量" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="堆heap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="堆heap" type="462c0819:PsiDirectoryNode" />
-              <item name="OOM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="堆heap" type="462c0819:PsiDirectoryNode" />
-              <item name="年轻代" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
-              <item name="动态代理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,8 +255,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559768621308" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../实战Java虚拟机——jvm故障诊断与性能优化" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572258450659" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gupao/resourse/Tom-resourse/gupaoedu-vip-springaop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -464,9 +289,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStackDeep">
+  <component name="RunManager" selected="Spring Boot.FeixiangWebApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.web.jvm.监控工具.线程相互死锁.DeadLock" />
+      <module name="feixiangweb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feixiang.web.jvm.监控工具.线程相互死锁.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -485,13 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DumpOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.web.jvm.堆heap.DumpOOM" />
-      <module name="feixiang-web" />
-      <option name="VM_PARAMETERS" value="-Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:+PrintHeapAtGC -XX:+PrintCommandLineFlags -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./java_pid.hprof  -XX:+UseConcMarkSweepGC " />
+    <configuration name="LocalVarGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.web.jvm.java栈.栈帧.局部变量.LocalVarGC" />
+      <module name="feixiangweb" />
+      <option name="VM_PARAMETERS" value="-Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:+PrintHeapAtGC -XX:+PrintCommandLineFlags -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./java_pid.hprof" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.feixiang.web.jvm.堆heap.*" />
+          <option name="PATTERN" value="com.feixiang.web.jvm.java栈.栈帧.局部变量.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -506,20 +345,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.feixiang.web.jvm.堆heap.OOM.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SoftRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.web.jvm.堆heap.软引用.SoftRef" />
-      <module name="feixiang-web" />
-      <option name="VM_PARAMETERS" value="-Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:+PrintHeapAtGC -XX:+PrintCommandLineFlags -XX:+UseConcMarkSweepGC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.feixiang.web.jvm.堆heap.软引用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -573,19 +398,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestStackDeep" />
-      <item itemvalue="Application.DumpOOM" />
-      <item itemvalue="Application.SoftRef" />
       <item itemvalue="Application.DirectBufferOOM" />
       <item itemvalue="Application.MultiThreadOOM" />
+      <item itemvalue="Application.LocalVarGC" />
+      <item itemvalue="Application.DeadLock" />
       <item itemvalue="Spring Boot.FeixiangWebApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.FeixiangWebApplication" />
+        <item itemvalue="Application.LocalVarGC" />
+        <item itemvalue="Application.DeadLock" />
         <item itemvalue="Application.MultiThreadOOM" />
         <item itemvalue="Application.DirectBufferOOM" />
-        <item itemvalue="Spring Boot.FeixiangWebApplication" />
-        <item itemvalue="Application.DumpOOM" />
-        <item itemvalue="Application.SoftRef" />
       </list>
     </recent_temporary>
   </component>
@@ -613,7 +438,12 @@
       <workItem from="1557452225230" duration="211000" />
       <workItem from="1559179984985" duration="23318000" />
       <workItem from="1559714189546" duration="2501000" />
-      <workItem from="1559753569074" duration="4936000" />
+      <workItem from="1559753569074" duration="4960000" />
+      <workItem from="1560499009773" duration="1782000" />
+      <workItem from="1560501569383" duration="3642000" />
+      <workItem from="1571794866758" duration="2157000" />
+      <workItem from="1571887929298" duration="1359000" />
+      <workItem from="1572247223800" duration="3274000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -636,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559715457946</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加类">
+      <created>1559768622919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559768622919</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -645,7 +482,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98268000" />
+    <option name="totallyTimeSpent" value="110506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +497,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923664" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923664" visible="true" weight="0.22995462" />
       <window_info id="Structure" order="1" sideWeight="0.50076336" side_tool="true" weight="0.2647059" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -670,13 +507,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7708674" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6202946" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7790507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5744681" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32569557" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.47830802" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -705,7 +542,8 @@
     <MESSAGE value="修改gc测试" />
     <MESSAGE value="修改pom" />
     <MESSAGE value="添加类" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加类" />
+    <MESSAGE value="添加rabbitMq测试模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加rabbitMq测试模块" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -816,129 +654,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/java/jdk1.8.0_91/src.zip!/java/nio/charset/Charset.java" />
-    <entry file="jar://C:/java/jdk1.8.0_91/src.zip!/java/nio/channels/ServerSocketChannel.java" />
-    <entry file="uml://JAVA/java.nio.channels.ServerSocketChannel">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.nio.channels.ServerSocketChannel</OriginalElement>
-          <nodes>
-            <node x="0.0" y="240.0">java.nio.channels.InterruptibleChannel</node>
-            <node x="113.10000000000001" y="400.0">java.nio.channels.SelectableChannel</node>
-            <node x="156.0" y="80.0">java.io.Closeable</node>
-            <node x="257.75" y="240.0">java.nio.channels.NetworkChannel</node>
-            <node x="22.75" y="320.0">java.nio.channels.spi.AbstractInterruptibleChannel</node>
-            <node x="89.1" y="480.0">java.nio.channels.spi.AbstractSelectableChannel</node>
-            <node x="142.5" y="0.0">java.lang.AutoCloseable</node>
-            <node x="164.97500000000002" y="560.0">java.nio.channels.ServerSocketChannel</node>
-            <node x="161.5" y="160.0">java.nio.channels.Channel</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.nio.channels.SelectableChannel" target="java.nio.channels.spi.AbstractInterruptibleChannel">
-              <point x="-38.25" y="-15.0" />
-              <point x="151.35000000000002" y="375.0" />
-              <point x="129.75" y="375.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.NetworkChannel" target="java.nio.channels.Channel">
-              <point x="0.0" y="-15.0" />
-              <point x="329.75" y="210.0" />
-              <point x="243.75" y="210.0" />
-              <point x="35.25" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.ServerSocketChannel" target="java.nio.channels.spi.AbstractSelectableChannel">
-              <point x="-42.50000000000003" y="-15.0" />
-              <point x="207.47500000000002" y="535.0" />
-              <point x="189.6" y="535.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.spi.AbstractInterruptibleChannel" target="java.nio.channels.InterruptibleChannel">
-              <point x="-53.5" y="-15.0" />
-              <point x="76.25" y="295.0" />
-              <point x="83.0" y="295.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.spi.AbstractInterruptibleChannel" target="java.nio.channels.Channel">
-              <point x="53.5" y="-15.0" />
-              <point x="183.25" y="295.0" />
-              <point x="176.5" y="295.0" />
-              <point x="176.5" y="220.0" />
-              <point x="196.75" y="220.0" />
-              <point x="-11.75" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.Channel" target="java.io.Closeable">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.InterruptibleChannel" target="java.nio.channels.Channel">
-              <point x="0.0" y="-15.0" />
-              <point x="83.0" y="210.0" />
-              <point x="173.25" y="210.0" />
-              <point x="-35.25" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.spi.AbstractSelectableChannel" target="java.nio.channels.SelectableChannel">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.ServerSocketChannel" target="java.nio.channels.NetworkChannel">
-              <point x="42.49999999999997" y="-15.0" />
-              <point x="292.475" y="535.0" />
-              <point x="329.75" y="535.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.nio.channels.SelectableChannel" target="java.nio.channels.Channel">
-              <point x="38.25" y="-15.0" />
-              <point x="227.85000000000002" y="375.0" />
-              <point x="247.25" y="375.0" />
-              <point x="247.25" y="220.0" />
-              <point x="220.25" y="220.0" />
-              <point x="11.75" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7868852459016393" x="201.0" y="295.0" />
-          <SelectedNodes>
-            <node>java.nio.channels.SelectableChannel</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/java/jdk1.8.0_91/src.zip!/java/nio/channels/Selector.java" />
-    <entry file="file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2457">
-          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-netty/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -1026,44 +741,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/年轻代/NewSizeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/boot/FeixiangWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/controller/GcController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/软引用/SoftRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1074,82 +755,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/DumpOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/PermOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/TestStackDeep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="648">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/controller/GcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3456">
+          <caret line="128" column="40" lean-forward="true" selection-start-line="128" selection-start-column="40" selection-end-line="128" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/boot/FeixiangWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/PermTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="594">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLockController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/TestStackDeep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/监控工具/线程相互死锁/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/CglibBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="108">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1159,8 +850,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/方法区/动态代理/BeanGeneratorObj.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/OOM/PermOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/年轻代/NewSizeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/软引用/SoftRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/堆heap/DumpOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/feixiang/rabbitmq/service/demo/Producer02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1248,8 +1015,4 @@
               </list>
             </option>
           </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
-</project>
+        </settings

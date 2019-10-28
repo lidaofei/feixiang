@@ -11,6 +11,7 @@
     <modules>
         <module>feixiang-netty</module>
         <module>feixiang-web</module>
+        <module>feixiang-rabbitmq</module>
     </modules>
 
     <properties>

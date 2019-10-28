@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="feixiang-netty" />
+        <module name="feixiang-rabbitmq-client" />
+        <module name="feixiang-rabbitmq-service" />
         <module name="feixiang-web" />
         <module name="feixiangweb" />
       </profile>

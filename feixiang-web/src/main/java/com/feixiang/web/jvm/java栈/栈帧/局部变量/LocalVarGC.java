@@ -11,7 +11,7 @@ public class LocalVarGC {
 		//full GC 会触发年轻代gc和老年代gc和永久代gc
 		byte[] a=new byte[4*1024*1024];
 		System.gc();
-	}
+}
 	public void localvarGc2(){
 		byte[] a=new byte[4*1024*1024];
 		//局部变量表应用清空了
@@ -35,7 +35,6 @@ public class LocalVarGC {
 	}
 	public void localvarGc5(){
 		localvarGc1();
-		//localvarGc1方法执行完后，localvarGc1的栈帧被销毁，局部变量表也会随之销毁
 		System.gc();
 	}
 	public static void main(String[] args) {
@@ -47,4 +46,4 @@ public class LocalVarGC {
 		ins.localvarGc5();
 	}
 
-}
+			}
