@@ -5,6 +5,7 @@ import com.feixiang.spring.web.model.User;
 import com.feixiang.spring.web.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
@@ -22,6 +23,18 @@ public class UserController {
 
     @Autowired
     private UserService userService;
+
+    @ResponseBody
+    @RequestMapping("/test")
+    public byte[] detail(@RequestBody User param){
+        System.out.println("==param="+param.toString());
+        if(param.getId() == null){
+            return null;
+        } else if(param.getId()==1){
+            return new byte[]{};
+        }
+        return param.toString().getBytes();
+    }
 
     @ResponseBody
     @RequestMapping("/detail")

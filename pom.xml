@@ -8,6 +8,12 @@
     <artifactId>feixiang</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.0.RELEASE</version>
+    </parent>
+
     <modules>
         <module>feixiang-netty</module>
         <module>feixiang-web</module>
@@ -15,6 +21,7 @@
         <module>feixiang-spring-web</module>
         <module>feixiang-spring-webtwo</module>
         <module>feixiang-rpc</module>
+        <module>feixiang-demo</module>
     </modules>
 
     <dependencyManagement>
@@ -27,4 +34,13 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.20</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
 </project>

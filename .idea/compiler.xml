@@ -7,18 +7,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="feixiang-demo-SPI" />
         <module name="feixiang-netty" />
+        <module name="feixiang-rabbitmq-client" />
+        <module name="feixiang-rabbitmq-service" />
         <module name="feixiang-rpc-custom-client" />
         <module name="feixiang-rpc-custom-service" />
         <module name="feixiang-rpc-demo" />
         <module name="feixiang-spring-web" />
         <module name="feixiang-spring-webtwo" />
-        <module name="feixiang-rabbitmq-client" />
-        <module name="feixiang-rabbitmq-service" />
         <module name="feixiang-web" />
         <module name="feixiangweb" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="feixiangdemoSPI" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="feixiang-demo-SPI" options="-parameters" />
+      <module name="feixiang-netty" options="-parameters" />
+      <module name="feixiang-rabbitmq-client" options="-parameters" />
+      <module name="feixiang-rabbitmq-service" options="-parameters" />
+      <module name="feixiang-rpc-custom-client" options="-parameters" />
+      <module name="feixiang-rpc-custom-service" options="-parameters" />
+      <module name="feixiang-rpc-demo" options="-parameters" />
+      <module name="feixiang-spring-web" options="-parameters" />
+      <module name="feixiang-spring-webtwo" options="-parameters" />
+      <module name="feixiangweb" options="-parameters" />
+    </option>
   </component>
 </project>

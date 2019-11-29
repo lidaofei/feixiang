@@ -12,6 +12,15 @@ public class User {
 
     private int age;
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
     public Long getId() {
         return id;
     }
