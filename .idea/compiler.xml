@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="atguigu-spring-annotation" />
         <module name="feixiang-demo-SPI" />
         <module name="feixiang-netty" />
         <module name="feixiang-rabbitmq-client" />
@@ -26,7 +27,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="atguigu-spring-annotation" options="-parameters" />
       <module name="feixiang-demo-SPI" options="-parameters" />
+      <module name="feixiang-demo-import" options="" />
       <module name="feixiang-netty" options="-parameters" />
       <module name="feixiang-rabbitmq-client" options="-parameters" />
       <module name="feixiang-rabbitmq-service" options="-parameters" />
