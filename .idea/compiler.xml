@@ -7,18 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="atguigu-spring-annotation" />
-        <module name="feixiang-demo-SPI" />
-        <module name="feixiang-netty" />
-        <module name="feixiang-rabbitmq-client" />
-        <module name="feixiang-rabbitmq-service" />
         <module name="feixiang-rpc-custom-client" />
-        <module name="feixiang-rpc-custom-service" />
-        <module name="feixiang-rpc-demo" />
         <module name="feixiang-spring-web" />
+        <module name="feixiang-rpc-demo" />
+        <module name="feixiang-demo-SPI" />
+        <module name="atguigu-spring-annotation" />
         <module name="feixiang-spring-webtwo" />
         <module name="feixiang-web" />
+        <module name="feixiang-rabbitmq-client" />
+        <module name="feixiang-netty" />
+        <module name="feixiang-rabbitmq-service" />
         <module name="feixiangweb" />
+        <module name="feixiang-tdd" />
+        <module name="feixiang-rpc-custom-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -38,6 +39,8 @@
       <module name="feixiang-rpc-demo" options="-parameters" />
       <module name="feixiang-spring-web" options="-parameters" />
       <module name="feixiang-spring-webtwo" options="-parameters" />
+      <module name="feixiang-tdd" options="-parameters" />
+      <module name="feixiang-web" options="-parameters" />
       <module name="feixiangweb" options="-parameters" />
     </option>
   </component>

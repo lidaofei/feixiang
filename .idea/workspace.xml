@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feixiang-tdd/feixiang-tdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-tdd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/feixiang-demo-SPI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/atguigu-spring-annotation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/feixiang-demo-import.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/feixiang-rabbitmq-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576817670942" />
@@ -298,7 +300,8 @@
       <workItem from="1576661149394" duration="1799000" />
       <workItem from="1576719546276" duration="1729000" />
       <workItem from="1576806227736" duration="4259000" />
-      <workItem from="1576859977726" duration="274000" />
+      <workItem from="1576859977726" duration="2717000" />
+      <workItem from="1577000137147" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -395,7 +398,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -407,7 +412,8 @@
     <MESSAGE value="添加类" />
     <MESSAGE value="添加spring mvc" />
     <MESSAGE value="添加spi demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加spi demo" />
+    <MESSAGE value="添加 tdd" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 tdd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
