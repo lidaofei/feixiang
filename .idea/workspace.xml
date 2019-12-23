@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/feixiang-tdd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/TicTacToeSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/UserServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-tdd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,26 +32,11 @@
         <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>var1</find>
-      <find>client</find>
-      <find>OnOutOfMemoryError</find>
-      <find>spring-boot-maven-plugin</find>
-      <find>spring.version</find>
-      <find>spring-boot.version</find>
-      <find>aop</find>
-      <find>aspectj</find>
-      <find>validator</find>
-      <find>multipartResolver</find>
-      <find>RequestMappingHandlerAdapter</find>
-      <find>aspectjtools</find>
-      <find>getStatus</find>
-      <find>com/Blue</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,6 +67,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576817670942" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -92,6 +80,12 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.feixiang.tdd" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.feixiang.web.jvm.java栈.栈上分配" />
       <recent name="com.feixiang.nio.chatroom" />
@@ -301,7 +295,9 @@
       <workItem from="1576719546276" duration="1729000" />
       <workItem from="1576806227736" duration="4259000" />
       <workItem from="1576859977726" duration="2717000" />
-      <workItem from="1577000137147" duration="1206000" />
+      <workItem from="1577000137147" duration="1244000" />
+      <workItem from="1577115723945" duration="3405000" />
+      <workItem from="1577125367332" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -352,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575024508743</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加 tdd">
+      <created>1577002428486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577002428487</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -413,7 +416,8 @@
     <MESSAGE value="添加spring mvc" />
     <MESSAGE value="添加spi demo" />
     <MESSAGE value="添加 tdd" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 tdd" />
+    <MESSAGE value="添加 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
