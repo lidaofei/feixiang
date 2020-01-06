@@ -17,7 +17,7 @@ public class MyImportBeanDefinitionRegistrar implements ImportBeanDefinitionRegi
 	 */
 	@Override
 	public void registerBeanDefinitions(AnnotationMetadata importingClassMetadata, BeanDefinitionRegistry registry) {
-		
+		System.out.println("MyImportBeanDefinitionRegistrar#registerBeanDefinitions()");
 		boolean definition = registry.containsBeanDefinition("com.Red");
 		boolean definition2 = registry.containsBeanDefinition("com.Blue");
 		if(definition && definition2){

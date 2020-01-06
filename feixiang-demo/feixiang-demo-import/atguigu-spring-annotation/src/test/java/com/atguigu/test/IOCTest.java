@@ -57,11 +57,15 @@ public class IOCTest {
 	@Test
 	public void test02(){
 		AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(MainConfig2.class);
-//		String[] definitionNames = applicationContext.getBeanDefinitionNames();
-//		for (String name : definitionNames) {
-//			System.out.println(name);
-//		}
-//		
+		String[] definitionNames = applicationContext.getBeanDefinitionNames();
+		for (String name : definitionNames) {
+			System.out.println(name);
+		}
+		//获取colorFactoryBean里getObject()方法注入的Color对象
+		System.out.println("=="+applicationContext.getBean("colorFactoryBean"));
+		//获取colorFactoryBean本身对象
+		System.out.println("=="+applicationContext.getBean("&colorFactoryBean"));
+
 		System.out.println("ioc容器创建完成....");
 		Object bean = applicationContext.getBean("person");
 		Object bean2 = applicationContext.getBean("person");

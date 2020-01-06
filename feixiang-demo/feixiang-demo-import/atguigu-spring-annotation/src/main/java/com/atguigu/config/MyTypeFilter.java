@@ -29,7 +29,7 @@ public class MyTypeFilter implements TypeFilter {
 		String className = classMetadata.getClassName();
 		System.out.println("--->"+className);
 		//className 包含er才不能注入进来
-		if(className.contains("er")){
+		if(className.contains("Car")){
 			return true;
 		}
 		return false;
