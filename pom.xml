@@ -22,6 +22,7 @@
         <module>feixiang-spring-webtwo</module>
         <module>feixiang-rpc</module>
         <module>feixiang-demo</module>
+        <module>feixiang-tdd</module>
     </modules>
 
     <dependencyManagement>
