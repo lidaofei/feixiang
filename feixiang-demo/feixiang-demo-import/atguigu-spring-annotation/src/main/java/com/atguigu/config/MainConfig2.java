@@ -19,9 +19,9 @@ import com.atguigu.condition.MyImportSelector;
 import com.atguigu.condition.WindowsCondition;
 
 //类中组件统一设置。满足当前条件，这个类中配置的所有bean注册才能生效；
-@Conditional({WindowsCondition.class})
+//@Conditional({WindowsCondition.class})
 @Configuration
-@Import({Color.class,Red.class,MyImportSelector.class,MyImportBeanDefinitionRegistrar.class})
+@Import({Red.class,MyImportSelector.class,MyImportBeanDefinitionRegistrar.class})
 //@Import导入组件，id默认是组件的全类名
 public class MainConfig2 {
 	
@@ -59,15 +59,18 @@ public class MainConfig2 {
 	 * 如果系统是windows，给容器中注册("bill")
 	 * 如果是linux系统，给容器中注册("linus")
 	 */
-	
+
+	@Conditional({WindowsCondition.class})
 	@Bean("bill")
 	public Person person01(){
+        System.out.println("==windows bill");
 		return new Person("Bill Gates",62);
 	}
 	
 	@Conditional(LinuxCondition.class)
 	@Bean("linus")
 	public Person person02(){
+        System.out.println("==linux linus");
 		return new Person("linus", 48);
 	}
 	

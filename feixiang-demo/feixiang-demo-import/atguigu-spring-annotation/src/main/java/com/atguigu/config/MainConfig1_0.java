@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * @date 2019/12/20 11:21
  */
 @Configuration
-@ComponentScan(basePackages = "com.atguigu")
+@ComponentScan(basePackages = "com.atguigu.dao")
 public class MainConfig1_0 {
 
 }
