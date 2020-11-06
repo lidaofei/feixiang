@@ -14,7 +14,7 @@ public class IOCTest_Autowired {
 	@Test
 	public void test01(){
 		AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(MainConifgOfAutowired.class);
-		
+		System.out.println("容器初始化完成");
 		BookService bookService = applicationContext.getBean(BookService.class);
 		System.out.println(bookService);
 		
@@ -29,6 +29,7 @@ public class IOCTest_Autowired {
 		Color color = applicationContext.getBean(Color.class);
 		System.out.println(color);
 		System.out.println(applicationContext);
+		//关闭容器
 		applicationContext.close();
 	}
 

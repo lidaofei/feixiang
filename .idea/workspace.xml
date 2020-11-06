@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="添加spring annotation demo">
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/PrintUtils.java" afterDir="false" />
+    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/feixiang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/java/com/dafei/demo/elasticsearch/UserCURD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/target/classes/com/dafei/demo/elasticsearch/UserCURD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig1_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig1_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MyTypeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MyTypeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_AOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_AOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-tdd/feixiang-tdd.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-netty/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-web/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-spring-web/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-spring-webtwo/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rpc/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-custom/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-custom/feixiang-rpc-custom-client/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-custom/feixiang-rpc-custom/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-custom/feixiang-rpc-custom-service/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-demo/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rabbitmq/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-demo/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/spring-annotation/target/" />
-    <ignored path="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,103 +29,6 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="241" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="feixiang" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_AOP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="15" column="114" selection-start-line="15" selection-start-column="114" selection-end-line="15" selection-end-column="114" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Primary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Profile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_LifeCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Ext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_PropertyValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Tx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -154,433 +38,79 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>var1</find>
-      <find>client</find>
-      <find>OnOutOfMemoryError</find>
-      <find>spring-boot-maven-plugin</find>
-      <find>spring.version</find>
-      <find>spring-boot.version</find>
-      <find>aop</find>
-      <find>aspectj</find>
-      <find>validator</find>
-      <find>multipartResolver</find>
-      <find>RequestMappingHandlerAdapter</find>
-      <find>aspectjtools</find>
-      <find>getStatus</find>
-      <find>com/Blue</find>
-      <find>-D</find>
-      <find>bill()</find>
-      <find>解析的字符串</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/java栈/TestStackDeep.java" />
-        <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/监控工具/线程相互死锁/User.java" />
-        <option value="$PROJECT_DIR$/feixiang-web/src/main/java/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLockController.java" />
-        <option value="$PROJECT_DIR$/feixiang-web/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/java/com/feixiang/spring/web/service/UserService.java" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/feixiang-spring-webtwo/src/main/java/web/model/User.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-webtwo/src/main/java/com/feixiang/spring/webtwo/common/Result.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-webtwo/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-spring-webtwo/src/main/java/com/feixiang/spring/webtwo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-webtwo/src/main/java/com/feixiang/spring/webtwo/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-webtwo/src/main/java/com/feixiang/spring/webtwo/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/java/com/feixiang/spring/web/common/Result.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/resources/spring-context.xml" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/java/com/feixiang/spring/web/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-custom/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-rpc/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-demo/src/main/java/com/feixiang/rpc/demo/zookerper/ZkDemo.java" />
-        <option value="$PROJECT_DIR$/feixiang-rpc/feixiang-rpc-demo/src/main/java/com/feixiang/rpc/demo/zookerper/CuratorDemo.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/java/com/feixiang/spring/web/model/User.java" />
-        <option value="$PROJECT_DIR$/feixiang-spring-web/src/main/java/com/feixiang/spring/web/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java/com.feixiang.demo.spi/config/DemoProperties.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java/com.feixiang.demo.spi/config/DemoAutoConfig.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java/com.feixiang.demo.spi/config/AutoConfigurationImportSelectorDemo.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/resources/META-INF/spring.factories" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java/com.feixiang.demo.spi/annotation/EnableAutoDemoConfig.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java/com.feixiang.demo.spi/model/Demo.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java/com.feixiang.demo.spi/SpiApplication.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/pom.xml" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/service/BookService.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig1_0.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MyTypeFilter.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/ColorFactoryBean.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/PrintUtils.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java" />
-        <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_AOP.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven\repository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.5.4" />
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-demo-SPI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-demo-SPI" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.0.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.0.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-autoconfigure:2.0.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="feixiang-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.0.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter-logging:2.0.0.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectId" id="1juQRyZTIyeLNe3YohjqcyN86s0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1932" />
-    <option name="height" value="1047" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="condition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="ext" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="feixiang" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="feixiang-demo-import" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu-spring-annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-5.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-5.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-5.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="feixiang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-5.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="env" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578132415184" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578309748355" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0625" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.feixiang.web.jvm.java栈.栈上分配" />
       <recent name="com.feixiang.nio.chatroom" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-elasticsearch\src\main\resources" />
       <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\test\java" />
       <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\resources" />
       <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\java" />
       <recent name="D:\WorkSpace\ldf\feixiang\feixiang\feixiang-spring-web\src\main\resources" />
-      <recent name="D:\WorkSpace\ldf\feixiang\feixiang\feixiang-spring-webtwo\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.IOCTest_Autowired.test01">
+  <component name="RunManager" selected="Application.UserCURD">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCURD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dafei.demo.elasticsearch.UserCURD" />
+      <module name="feixiang-demo-elasticsearch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dafei.demo.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -625,7 +155,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest_LifeCycle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="atguigu-spring-annotation" />
       <extension name="coverage">
         <pattern>
@@ -634,26 +164,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IOCTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="atguigu-spring-annotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_LifeCycle" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -684,6 +196,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FeixiangWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feixiangweb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.feixiang.web.boot.FeixiangWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -704,19 +223,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestStackDeep" />
-      <item itemvalue="JUnit.IOCTest.test03" />
-      <item itemvalue="JUnit.IOCTest.test02" />
       <item itemvalue="JUnit.IOCTest.testImport" />
       <item itemvalue="JUnit.IOCTest_AOP.test01" />
       <item itemvalue="JUnit.IOCTest_Autowired.test01" />
+      <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
+      <item itemvalue="Spring Boot.FeixiangWebApplication" />
+      <item itemvalue="Application.UserCURD" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserCURD" />
+        <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
         <item itemvalue="JUnit.IOCTest_Autowired.test01" />
         <item itemvalue="JUnit.IOCTest_AOP.test01" />
         <item itemvalue="JUnit.IOCTest.testImport" />
-        <item itemvalue="JUnit.IOCTest.test03" />
-        <item itemvalue="JUnit.IOCTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -766,7 +286,8 @@
       <workItem from="1576840805936" duration="46000" />
       <workItem from="1578120664381" duration="1633000" />
       <workItem from="1578122453274" duration="9947000" />
-      <workItem from="1578277174712" duration="6000" />
+      <workItem from="1578277174712" duration="5752000" />
+      <workItem from="1604651497140" duration="6131000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -824,19 +345,17 @@
       <option name="project" value="LOCAL" />
       <updated>1576817739098</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="修改注解的测试demo">
+      <created>1578277250512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578277250512</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IOCTest_test02 - 2020.01.04 at 16h 36m 50s.xml">
-      <configuration name="IOCTest.test02" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test02 - 2020.01.04 at 17h 08m 02s.xml">
-      <configuration name="IOCTest.test02" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test02 - 2020.01.04 at 17h 11m 28s.xml">
-      <configuration name="IOCTest.test02" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IOCTest_test03 - 2020.01.04 at 17h 13m 50s.xml">
       <configuration name="IOCTest.test03" configurationId="JUnit" />
     </history-entry>
@@ -858,9 +377,15 @@
     <history-entry file="IOCTest_Autowired_test01 - 2020.01.04 at 17h 45m 49s.xml">
       <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177656000" />
+    <history-entry file="IOCTest_Autowired_test01 - 2020.01.06 at 10h 25m 18s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_Autowired_test01 - 2020.01.06 at 18h 23m 48s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_LifeCycle_test01 - 2020.01.06 at 19h 18m 15s.xml">
+      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -871,59 +396,70 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.15279879" />
-      <window_info id="Structure" order="1" sideWeight="0.50076336" side_tool="true" weight="0.2647059" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50076336" side_tool="true" weight="0.2647059" />
-      <window_info id="Web" order="7" sideWeight="0.502455" side_tool="true" weight="0.24508321" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5220949" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5270049" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32569557" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.47830802" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.44189852" />
-      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32936078" />
-      <window_info anchor="bottom" id="Spring" order="14" weight="0.329718" />
-      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.329718" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.17549168" />
-      <window_info anchor="right" id="BPMNPalette" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32995737" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="修改gc测试" />
     <MESSAGE value="修改pom" />
     <MESSAGE value="添加类" />
     <MESSAGE value="添加spring mvc" />
     <MESSAGE value="添加spi demo" />
     <MESSAGE value="添加spring annotation demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加spring annotation demo" />
+    <MESSAGE value="修改注解的测试demo" />
+    <MESSAGE value="添加esdemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加esdemo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1604670860897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604670860897" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1604666650720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604666650720" />
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.center" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.left" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.right" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state x="71" y="0" key="SettingsEditor" timestamp="1604669070249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604669070249" />
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604667575573" />
+    <state x="413" y="111" key="extract.method.dialog" timestamp="1604670421734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1604670421734" />
+    <state x="274" y="192" width="1071" height="536" key="find.popup" timestamp="1604668443545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="192" width="1071" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668443545" />
+    <state x="-175" y="215" key="new project wizard" timestamp="1604666594168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-175" y="215" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604666594168" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604668646812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668646812" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -931,109 +467,86 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimple.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimple.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
           <line>67</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
           <line>74</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
           <line>88</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
           <line>78</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
           <line>95</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java</url>
           <line>608</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.2.RELEASE/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.java</url>
           <line>78</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
@@ -1047,506 +560,5 @@
         <watch expression="clazz.getDeclaredMethods()" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="231" selection-start-line="231" selection-end-line="231" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/env/PropertyResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/env/AbstractEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="530" column="41" selection-start-line="530" selection-start-column="41" selection-end-line="530" selection-end-column="41" />
-          <folding>
-            <element signature="e#20140#20141#0" expanded="true" />
-            <element signature="e#20192#20193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/env/AbstractPropertyResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="164" column="21" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
-          <folding>
-            <element signature="e#5373#5374#0" expanded="true" />
-            <element signature="e#5417#5418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-          <folding>
-            <element signature="e#1867#1868#0" expanded="true" />
-            <element signature="e#1920#1921#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/env/ConfigurablePropertyResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/MyBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Yellow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/service/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10260">
-          <caret line="402" column="6" selection-start-line="402" selection-start-column="6" selection-end-line="402" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/controller/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/dao/BookDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MyTypeFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig1_0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="e#1230#1231#0" expanded="true" />
-            <element signature="e#1266#1267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/RainBow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Blue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Bean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="190" column="18" selection-start-line="190" selection-start-column="18" selection-end-line="190" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="1075" column="18" selection-start-line="1075" selection-start-column="18" selection-end-line="1075" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-          <folding>
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/WindowsCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_144/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="806" column="22" selection-start-line="806" selection-start-column="22" selection-end-line="806" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/PrintUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/ColorFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="90" column="26" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
-          <folding>
-            <element signature="e#2710#2711#0" expanded="true" />
-            <element signature="e#2746#2747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/aop/MathCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="190" column="16" lean-forward="true" selection-start-line="190" selection-start-column="16" selection-end-line="190" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7598#7599#0" expanded="true" />
-            <element signature="e#7632#7633#0" expanded="true" />
-            <element signature="e#7686#7687#0" expanded="true" />
-            <element signature="e#7716#7717#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_AOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/aop/LogAspects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="114" selection-start-line="15" selection-start-column="114" selection-end-line="15" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Primary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Profile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_LifeCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Ext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_PropertyValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Tx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>feixiang-spring-web:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>feixiang-rpc-demo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
