@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c45e69d-ed57-4c06-8c42-482b39abae66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/feixiang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/java/com/dafei/demo/elasticsearch/UserCURD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/target/classes/com/dafei/demo/elasticsearch/UserCURD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-tdd/feixiang-tdd.iml" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/feixiang$TestStackDeep.ic" NAME="TestStackDeep Coverage Results" MODIFIED="1559182069329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.feixiang.web.jvm.java栈.栈帧.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -22,37 +42,72 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1alVA3fW7Sk9zNihmbXPfzgABNy" />
+  <component name="ProjectId" id="1juQRyZTIyeLNe3YohjqcyN86s0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578309748355" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.feixiang.web.jvm.java栈.栈上分配" />
+      <recent name="com.feixiang.nio.chatroom" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-elasticsearch\src\main\resources" />
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\test\java" />
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\resources" />
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\java" />
+      <recent name="D:\WorkSpace\ldf\feixiang\feixiang\feixiang-spring-web\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SingleLinkedListDemo">
-    <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.datastructures.linkedlist.SingleLinkedListDemo" />
-      <module name="feixiang-datastructures" />
+  <component name="RunManager" selected="Application.UserCURD">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCURD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dafei.demo.elasticsearch.UserCURD" />
+      <module name="feixiang-demo-elasticsearch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.feixiang.datastructures.linkedlist.*" />
+          <option name="PATTERN" value="com.dafei.demo.elasticsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,9 +115,128 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCTest_AOP.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atguigu-spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_AOP" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCTest_Autowired.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atguigu-spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_Autowired" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCTest_LifeCycle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atguigu-spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_LifeCycle" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOCTest.testImport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atguigu-spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest" />
+      <option name="METHOD_NAME" value="testImport" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeixiangWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feixiangweb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.feixiang.web.boot.FeixiangWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestStackDeep" />
+      <item itemvalue="JUnit.IOCTest.testImport" />
+      <item itemvalue="JUnit.IOCTest_AOP.test01" />
+      <item itemvalue="JUnit.IOCTest_Autowired.test01" />
+      <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
+      <item itemvalue="Spring Boot.FeixiangWebApplication" />
+      <item itemvalue="Application.UserCURD" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingleLinkedListDemo" />
+        <item itemvalue="Application.UserCURD" />
+        <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
+        <item itemvalue="JUnit.IOCTest_Autowired.test01" />
+        <item itemvalue="JUnit.IOCTest_AOP.test01" />
+        <item itemvalue="JUnit.IOCTest.testImport" />
       </list>
     </recent_temporary>
   </component>
@@ -71,30 +245,320 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6c45e69d-ed57-4c06-8c42-482b39abae66" name="Default Changelist" comment="" />
-      <created>1587310020362</created>
+      <changelist id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="" />
+      <created>1554370672005</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587310020362</updated>
-      <workItem from="1587310021894" duration="1661000" />
-      <workItem from="1588297344030" duration="8910000" />
+      <updated>1554370672005</updated>
+      <workItem from="1554370681430" duration="3497000" />
+      <workItem from="1555895564014" duration="14697000" />
+      <workItem from="1555981082458" duration="11020000" />
+      <workItem from="1556155085699" duration="1267000" />
+      <workItem from="1556262754385" duration="1251000" />
+      <workItem from="1556371577139" duration="2251000" />
+      <workItem from="1556965557539" duration="16061000" />
+      <workItem from="1557137164685" duration="943000" />
+      <workItem from="1557191040817" duration="9354000" />
+      <workItem from="1557277610560" duration="4040000" />
+      <workItem from="1557367230472" duration="2921000" />
+      <workItem from="1557452225230" duration="211000" />
+      <workItem from="1559179984985" duration="23318000" />
+      <workItem from="1559714189546" duration="2501000" />
+      <workItem from="1559753569074" duration="4936000" />
+      <workItem from="1559896468719" duration="10416000" />
+      <workItem from="1560128697830" duration="2408000" />
+      <workItem from="1560243449414" duration="1263000" />
+      <workItem from="1562829020718" duration="5005000" />
+      <workItem from="1562834080133" duration="5160000" />
+      <workItem from="1562856481046" duration="7441000" />
+      <workItem from="1562927226223" duration="1511000" />
+      <workItem from="1565054513900" duration="1708000" />
+      <workItem from="1565609007196" duration="3396000" />
+      <workItem from="1572331745052" duration="2333000" />
+      <workItem from="1572397799124" duration="3820000" />
+      <workItem from="1574215850060" duration="172000" />
+      <workItem from="1575013892673" duration="5206000" />
+      <workItem from="1575021240803" duration="3200000" />
+      <workItem from="1576547452867" duration="2943000" />
+      <workItem from="1576661149394" duration="1799000" />
+      <workItem from="1576719546276" duration="1729000" />
+      <workItem from="1576806227736" duration="7555000" />
+      <workItem from="1576840805936" duration="46000" />
+      <workItem from="1578120664381" duration="1633000" />
+      <workItem from="1578122453274" duration="9947000" />
+      <workItem from="1578277174712" duration="5752000" />
+      <workItem from="1604651497140" duration="6131000" />
     </task>
+    <task id="LOCAL-00001" summary="修改gc测试">
+      <created>1557209723374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557209723374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改gc测试">
+      <created>1559714373505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559714373505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改pom">
+      <created>1559715457946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559715457946</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加类">
+      <created>1559898051620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559898051621</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加类">
+      <created>1559899265515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559899265515</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加spring mvc">
+      <created>1565054787235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565054787235</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加spi demo">
+      <created>1575024508743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575024508743</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加spring annotation demo">
+      <created>1576817739098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576817739098</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改注解的测试demo">
+      <created>1578277250512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578277250512</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="TestHistory">
+    <history-entry file="IOCTest_test03 - 2020.01.04 at 17h 13m 50s.xml">
+      <configuration name="IOCTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_testImport - 2020.01.04 at 17h 19m 13s.xml">
+      <configuration name="IOCTest.testImport" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 25m 30s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 29m 03s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 39m 31s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 41m 00s.xml">
+      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_Autowired_test01 - 2020.01.04 at 17h 45m 49s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_Autowired_test01 - 2020.01.06 at 10h 25m 18s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_Autowired_test01 - 2020.01.06 at 18h 23m 48s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_LifeCycle_test01 - 2020.01.06 at 19h 18m 15s.xml">
+      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="修改gc测试" />
+    <MESSAGE value="修改pom" />
+    <MESSAGE value="添加类" />
+    <MESSAGE value="添加spring mvc" />
+    <MESSAGE value="添加spi demo" />
+    <MESSAGE value="添加spring annotation demo" />
+    <MESSAGE value="修改注解的测试demo" />
+    <MESSAGE value="添加esdemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加esdemo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1604670860897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604670860897" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1604666650720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604666650720" />
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.center" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.left" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.right" timestamp="1604670806252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state x="71" y="0" key="SettingsEditor" timestamp="1604669070249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604669070249" />
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604667575573" />
+    <state x="413" y="111" key="extract.method.dialog" timestamp="1604670421734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1604670421734" />
+    <state x="274" y="192" width="1071" height="536" key="find.popup" timestamp="1604668443545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="192" width="1071" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668443545" />
+    <state x="-175" y="215" key="new project wizard" timestamp="1604666594168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-175" y="215" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604666594168" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604668646812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668646812" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimple.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java</url>
+          <line>608</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.2.RELEASE/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="applicationContext.getBean(&quot;colorFactoryBean&quot;)" />
+        <watch expression="applicationContext.getBean(&quot;&amp;colorFactoryBean&quot;)" />
+      </configuration>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="clazz.getDeclaredMethods()" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
