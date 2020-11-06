@@ -1,170 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/feixiang-datastructures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/sparsearray/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/target/classes/META-INF/feixiang-datastructures.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/target/classes/com/feixiang/datastructures/queue/ArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/target/classes/com/feixiang/datastructures/queue/ArrayQueueDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/target/classes/com/feixiang/datastructures/sparsearray/SparseArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/SpringSource.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClient$Read.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClient$Writer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo$read.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo$write.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomServiceSimple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient$Reader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient$Writer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/feixiang-netty-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/surefire-reports/TEST-com.feixiang.Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/surefire-reports/com.feixiang.Test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/target/feixiang-rabbitmq-client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/classes/com/feixiang/rabbitmq/service/demo/Producer02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/feixiang-rabbitmq-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/common/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/common/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/aspectjrt-1.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/aspectjtools-1.7.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/aspectjweaver-1.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/jackson-annotations-2.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/jackson-core-2.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/jackson-databind-2.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-context-support-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-oxm-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-test-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-tx-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/common/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/common/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-core-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-test-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-web-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-3.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/game/service/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/target/classes/META-INF/feixiang-tdd.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/target/classes/com/feixiang/tdd/game/service/TicTacToe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/target/classes/com/feixiang/tdd/user/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/target/classes/com/feixiang/tdd/user/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/target/test-classes/com/feixiang/tdd/TicTacToeSpec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/target/test-classes/com/feixiang/tdd/UserServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/boot/FeixiangWebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/controller/GcController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/TestStackDeep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/DumpOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM$SleepThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/PermOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/年轻代/NewSizeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/软引用/SoftRef$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/软引用/SoftRef.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/BeanGeneratorObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/CglibBean$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/CglibBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/PermTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLockController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/feixiang-web-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/feixiang-web-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="6c45e69d-ed57-4c06-8c42-482b39abae66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/user/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/user/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/TicTacToeSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/TicTacToeSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,25 +11,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/feixiang$TestStackDeep.ic" NAME="TestStackDeep Coverage Results" MODIFIED="1559182069329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.feixiang.web.jvm.java栈.栈帧.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="241" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="feixiang" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
-        <option value="Interface" />
-        <option value="JUnit5 Test Class" />
-        <option value="Arquillian JUnit Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -199,66 +22,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="F:\maven\repository" />
-        <option name="mavenHome" value="F:/maven/apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.2\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1VFs38qnnUZXBbQNYK0Qdfgdlz4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1alVA3fW7Sk9zNihmbXPfzgABNy" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576817670942" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0625" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.feixiang.tdd" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.feixiang.tdd.game.service" />
-      <recent name="com.feixiang.web.jvm.java栈.栈上分配" />
-      <recent name="com.feixiang.nio.chatroom" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\test\java" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\resources" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\java" />
-      <recent name="D:\WorkSpace\ldf\feixiang\feixiang\feixiang-spring-web\src\main\resources" />
-      <recent name="D:\WorkSpace\ldf\feixiang\feixiang\feixiang-spring-webtwo\src\main\resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,20 +46,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CircleArrayQueueDemo">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.datastructures.queue.ArrayQueueDemo" />
+  <component name="RunManager" selected="Application.SingleLinkedListDemo">
+    <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.datastructures.linkedlist.SingleLinkedListDemo" />
       <module name="feixiang-datastructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.feixiang.datastructures.queue.*" />
+          <option name="PATTERN" value="com.feixiang.datastructures.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,122 +60,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.datastructures.queue.CircleArrayQueueDemo" />
-      <module name="feixiang-datastructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.feixiang.datastructures.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.datastructures.sparsearray.SparseArray" />
-      <module name="feixiang-datastructures" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.feixiang.datastructures.sparsearray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicTacToeSpec.givenFirstTurnWhenNextPlayerThenK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="feixiang-tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.feixiang.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.feixiang.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.tdd.TicTacToeSpec" />
-      <option name="METHOD_NAME" value="givenFirstTurnWhenNextPlayerThenK" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicTacToeSpec.givenLastTurnWasKWhenNextPlayerThenJ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="feixiang-tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.feixiang.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.feixiang.tdd" />
-      <option name="MAIN_CLASS_NAME" value="com.feixiang.tdd.TicTacToeSpec" />
-      <option name="METHOD_NAME" value="givenLastTurnWasKWhenNextPlayerThenJ" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FeixiangWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="feixiang-web" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.feixiang.web.boot.FeixiangWebApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.TestStackDeep" />
-      <item itemvalue="Application.SparseArray" />
-      <item itemvalue="Application.ArrayQueueDemo" />
-      <item itemvalue="JUnit.TicTacToeSpec.givenFirstTurnWhenNextPlayerThenK" />
-      <item itemvalue="JUnit.TicTacToeSpec.givenLastTurnWasKWhenNextPlayerThenJ" />
-      <item itemvalue="Spring Boot.FeixiangWebApplication" />
-      <item itemvalue="Application.CircleArrayQueueDemo" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleArrayQueueDemo" />
-        <item itemvalue="Application.ArrayQueueDemo" />
-        <item itemvalue="Application.SparseArray" />
-        <item itemvalue="JUnit.TicTacToeSpec.givenLastTurnWasKWhenNextPlayerThenJ" />
-        <item itemvalue="JUnit.TicTacToeSpec.givenFirstTurnWhenNextPlayerThenK" />
+        <item itemvalue="Application.SingleLinkedListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -417,130 +71,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="" />
-      <created>1554370672005</created>
+      <changelist id="6c45e69d-ed57-4c06-8c42-482b39abae66" name="Default Changelist" comment="" />
+      <created>1587310020362</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554370672005</updated>
-      <workItem from="1554370681430" duration="3497000" />
-      <workItem from="1555895564014" duration="14697000" />
-      <workItem from="1555981082458" duration="11020000" />
-      <workItem from="1556155085699" duration="1267000" />
-      <workItem from="1556262754385" duration="1251000" />
-      <workItem from="1556371577139" duration="2251000" />
-      <workItem from="1556965557539" duration="16061000" />
-      <workItem from="1557137164685" duration="943000" />
-      <workItem from="1557191040817" duration="9354000" />
-      <workItem from="1557277610560" duration="4040000" />
-      <workItem from="1557367230472" duration="2921000" />
-      <workItem from="1557452225230" duration="211000" />
-      <workItem from="1559179984985" duration="23318000" />
-      <workItem from="1559714189546" duration="2501000" />
-      <workItem from="1559753569074" duration="4936000" />
-      <workItem from="1559896468719" duration="10416000" />
-      <workItem from="1560128697830" duration="2408000" />
-      <workItem from="1560243449414" duration="1263000" />
-      <workItem from="1562829020718" duration="5005000" />
-      <workItem from="1562834080133" duration="5160000" />
-      <workItem from="1562856481046" duration="7441000" />
-      <workItem from="1562927226223" duration="1511000" />
-      <workItem from="1565054513900" duration="1708000" />
-      <workItem from="1565609007196" duration="3396000" />
-      <workItem from="1572331745052" duration="2333000" />
-      <workItem from="1572397799124" duration="3820000" />
-      <workItem from="1574215850060" duration="172000" />
-      <workItem from="1575013892673" duration="5206000" />
-      <workItem from="1575021240803" duration="3200000" />
-      <workItem from="1576547452867" duration="2943000" />
-      <workItem from="1576661149394" duration="1799000" />
-      <workItem from="1576719546276" duration="1729000" />
-      <workItem from="1576806227736" duration="4259000" />
-      <workItem from="1576859977726" duration="2717000" />
-      <workItem from="1577000137147" duration="1244000" />
-      <workItem from="1577115723945" duration="3405000" />
-      <workItem from="1577125367332" duration="626000" />
-      <workItem from="1577196021917" duration="4936000" />
-      <workItem from="1577284159891" duration="5993000" />
-      <workItem from="1583053150809" duration="2555000" />
-      <workItem from="1586068662374" duration="756000" />
-      <workItem from="1586654906658" duration="5960000" />
-      <workItem from="1586675427878" duration="7161000" />
-      <workItem from="1587215943502" duration="8711000" />
+      <updated>1587310020362</updated>
+      <workItem from="1587310021894" duration="1661000" />
+      <workItem from="1588297344030" duration="8910000" />
     </task>
-    <task id="LOCAL-00001" summary="修改gc测试">
-      <created>1557209723374</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557209723374</updated>
-    </task>
-    <task id="LOCAL-00002" summary="修改gc测试">
-      <created>1559714373505</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1559714373505</updated>
-    </task>
-    <task id="LOCAL-00003" summary="修改pom">
-      <created>1559715457946</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1559715457946</updated>
-    </task>
-    <task id="LOCAL-00004" summary="添加类">
-      <created>1559898051620</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1559898051621</updated>
-    </task>
-    <task id="LOCAL-00005" summary="添加类">
-      <created>1559899265515</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1559899265515</updated>
-    </task>
-    <task id="LOCAL-00006" summary="添加spring mvc">
-      <created>1565054787235</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1565054787235</updated>
-    </task>
-    <task id="LOCAL-00007" summary="添加spi demo">
-      <created>1575024508743</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1575024508743</updated>
-    </task>
-    <task id="LOCAL-00008" summary="添加 tdd">
-      <created>1577002428486</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1577002428487</updated>
-    </task>
-    <task id="LOCAL-00009" summary="添加 test">
-      <created>1577125392379</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1577125392379</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -557,214 +96,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="修改gc测试" />
-    <MESSAGE value="修改pom" />
-    <MESSAGE value="添加类" />
-    <MESSAGE value="添加spring mvc" />
-    <MESSAGE value="添加spi demo" />
-    <MESSAGE value="添加 tdd" />
-    <MESSAGE value="添加 test" />
-    <MESSAGE value="添加 数据结构与算法练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 数据结构与算法练习" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimple.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomClientSimple.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/ChatRoomServiceSimple.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOServer.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/feixiang-netty/src/main/java/com/feixiang/nio/chatroom/gupaodemo/NIOClient.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java</url>
-          <line>608</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.2.RELEASE/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="x &lt;= 0 || x &gt;= 5" />
-      </configuration>
-      <configuration name="Application">
-        <watch expression="array[0].length;" language="JAVA" />
-      </configuration>
-      <configuration name="MavenRunConfiguration">
-        <watch expression="clazz.getDeclaredMethods()" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>feixiang-spring-web:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>feixiang-rpc-demo</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
