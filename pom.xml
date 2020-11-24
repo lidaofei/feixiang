@@ -24,6 +24,7 @@
         <module>feixiang-demo</module>
         <module>feixiang-tdd</module>
         <module>feixiang-datastructures</module>
+        <module>feixiang-java</module>
     </modules>
 
     <dependencyManagement>

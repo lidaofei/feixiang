@@ -13,11 +13,10 @@
         <module name="feixiang-demo-SPI" />
         <module name="feixiang-rpc-custom-service" />
         <module name="feixiang-web" />
+        <module name="feixiang-java" />
         <module name="feixiang-netty" />
         <module name="feixiang-rpc-custom-client" />
         <module name="feixiang-spring-webtwo" />
-        <module name="atguigu-spring-annotation" />
-        <module name="feixiang-rpc-custom-client" />
         <module name="feixiang-datastructures" />
         <module name="feixiangweb" />
         <module name="feixiang-rabbitmq-client" />
@@ -26,6 +25,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="atguigu-spring-annotation" target="1.8" />
       <module name="feixiangdemoSPI" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -36,6 +36,7 @@
       <module name="feixiang-demo-SPI" options="-parameters" />
       <module name="feixiang-demo-elasticsearch" options="-parameters" />
       <module name="feixiang-demo-import" options="" />
+      <module name="feixiang-java" options="-parameters" />
       <module name="feixiang-netty" options="-parameters" />
       <module name="feixiang-rabbitmq-client" options="-parameters" />
       <module name="feixiang-rabbitmq-service" options="-parameters" />
