@@ -12,6 +12,7 @@
         <module name="feixiang-tdd" />
         <module name="feixiang-demo-SPI" />
         <module name="feixiang-rpc-custom-service" />
+        <module name="feixiang-rabbitmq-demo" />
         <module name="feixiang-web" />
         <module name="feixiang-java" />
         <module name="feixiang-netty" />
@@ -39,6 +40,7 @@
       <module name="feixiang-java" options="-parameters" />
       <module name="feixiang-netty" options="-parameters" />
       <module name="feixiang-rabbitmq-client" options="-parameters" />
+      <module name="feixiang-rabbitmq-demo" options="-parameters" />
       <module name="feixiang-rabbitmq-service" options="-parameters" />
       <module name="feixiang-rpc-custom-client" options="-parameters" />
       <module name="feixiang-rpc-custom-service" options="-parameters" />

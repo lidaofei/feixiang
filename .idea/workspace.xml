@@ -2,102 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feixiang-java/feixiang-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/main/java/com/feixiang/java8/demo/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/CompletableFutureDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/LambdaDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/ParallelStreamDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/StreamDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/feixiang-rabbitmq-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-datastructures/target/classes/META-INF/feixiang-datastructures.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-datastructures/target/classes/com/feixiang/datastructures/queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-datastructures/target/classes/com/feixiang/datastructures/queue/ArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-datastructures/target/classes/com/feixiang/datastructures/sparsearray/SparseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/target/classes/com/dafei/demo/elasticsearch/UserCURD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/feixiang-netty-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/surefire-reports/TEST-com.feixiang.Test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/surefire-reports/com.feixiang.Test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/target/feixiang-rabbitmq-client-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/feixiang-rabbitmq-service-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/common/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/com/feixiang/spring/web/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/spring-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/aspectjrt-1.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/aspectjtools-1.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/aspectjweaver-1.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/commons-lang-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/jackson-annotations-2.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/jackson-core-2.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/jackson-databind-2.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/feixiang-spring-web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/common/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/com/feixiang/spring/webtwo/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-core-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-test-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-web-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/feixiang-spring-webtwo-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-3.2.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/target/classes/META-INF/feixiang-tdd.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/target/classes/com/feixiang/tdd/game/service/TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/target/classes/com/feixiang/tdd/user/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/target/classes/com/feixiang/tdd/user/service/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/target/test-classes/com/feixiang/tdd/TicTacToeSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/target/test-classes/com/feixiang/tdd/UserServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/target/feixiang-web-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/target/feixiang-web-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +71,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578309748355" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project/java-8-lambdas-exercises-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project/rabbitmq/rabbitmq-01-hello" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -389,7 +301,7 @@
       <workItem from="1604651497140" duration="6131000" />
       <workItem from="1606221708249" duration="5277000" />
       <workItem from="1606231539248" duration="616000" />
-      <workItem from="1606257975797" duration="1464000" />
+      <workItem from="1606257975797" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -454,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578277250512</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加java8 demo">
+      <created>1606259447356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606259447356</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -493,7 +412,8 @@
     <MESSAGE value="修改注解的测试demo" />
     <MESSAGE value="添加esdemo" />
     <MESSAGE value="添加java8 demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加java8 demo" />
+    <MESSAGE value="添加rabbitmq" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加rabbitmq" />
   </component>
   <component name="WindowStateProjectService">
     <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1604670860897">
