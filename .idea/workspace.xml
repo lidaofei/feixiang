@@ -2,14 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/feixiang-rabbitmq-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/ps/Consumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/ps/Consumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/ps/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/routing/Consumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/routing/Consumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/routing/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic/Consumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic/Consumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/util/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/work/Consumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/work/Consumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/work/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClient$Read.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClient$Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo$read.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo$write.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomClientSimpleTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/ChatRoomServiceSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient$Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient$Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/classes/com/feixiang/nio/chatroom/gupaodemo/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/classes/com/feixiang/rabbitmq/service/demo/Producer02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/common/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-web/target/classes/com/feixiang/spring/web/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/common/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/com/feixiang/spring/webtwo/service/impl/UserServiceImpl.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +105,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578309748355" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project/rabbitmq/rabbitmq-01-hello" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -80,20 +114,22 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\topic" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\work" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-java\src\test\java\com\feixiang\java8\demo" />
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-elasticsearch\src\main\resources" />
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\test\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.feixiang.rabbitmq.demo.routing" />
+      <recent name="com.feixiang.rabbitmq.demo.ps" />
       <recent name="com.feixiang.java8.demo" />
       <recent name="com.feixiang.web.jvm.java栈.栈上分配" />
       <recent name="com.feixiang.nio.chatroom" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\feixiang\feixiang\feixiang-java\src\test\java\com\feixiang\java8\demo" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-elasticsearch\src\main\resources" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\test\java" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\resources" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -235,11 +271,11 @@
     <list>
       <item itemvalue="Application.TestStackDeep" />
       <item itemvalue="Application.UserCURD" />
-      <item itemvalue="Spring Boot.FeixiangWebApplication" />
       <item itemvalue="Application.CompletableFutureDemoTest" />
       <item itemvalue="JUnit.StreamDemoTest.test" />
       <item itemvalue="JUnit.StreamDemoTest.test4" />
       <item itemvalue="JUnit.ParallelStreamDemoTest.test1" />
+      <item itemvalue="Spring Boot.FeixiangWebApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -301,7 +337,8 @@
       <workItem from="1604651497140" duration="6131000" />
       <workItem from="1606221708249" duration="5277000" />
       <workItem from="1606231539248" duration="616000" />
-      <workItem from="1606257975797" duration="3681000" />
+      <workItem from="1606257975797" duration="3705000" />
+      <workItem from="1606344070478" duration="3976000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -373,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606259447356</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加rabbitmq">
+      <created>1606261665866</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606261665866</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
