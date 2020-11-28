@@ -15,6 +15,7 @@
         <module>feixiang-rabbitmq-service</module>
         <module>feixiang-rabbitmq-client</module>
         <module>feixiang-rabbitmq-demo</module>
+        <module>feixiang-rabbitmq-comsumer</module>
     </modules>
 
 </project>

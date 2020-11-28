@@ -18,6 +18,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/spring-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/pom.xml" />
       </set>
     </option>
   </component>
