@@ -1,91 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b564ada-341a-4e47-8e41-317eb05388d4" name="Default Changelist" comment="修改报错">
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/sparsearray/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/SpringSource.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/target/classes/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/main/java/com/feixiang/java8/demo/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/CompletableFutureDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/LambdaDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/ParallelStreamDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/StreamDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-java/src/test/java/com/feixiang/java8/demo/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-netty/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/ps/Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/ps/Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/ps/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/routing/Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/routing/Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/routing/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/simple/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic/Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic/Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/topic/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/util/ConnectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/work/Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/work/Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo/src/main/java/com/feixiang/rabbitmq/demo/work/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/spring-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-spring-webtwo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/game/service/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/boot/FeixiangWebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/controller/GcController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/TestStackDeep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈上分配/OnStackTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/java栈/栈帧/局部变量/LocalVarGC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/DumpOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/DirectBufferOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM$SleepThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/MultiThreadOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/OOM/PermOOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/年轻代/NewSizeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/软引用/SoftRef$User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/堆heap/软引用/SoftRef.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/BeanGeneratorObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/CglibBean$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/CglibBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/方法区/动态代理/PermTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/DeadLockController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/com/feixiang/web/jvm/监控工具/线程相互死锁/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="6b564ada-341a-4e47-8e41-317eb05388d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/feixiang-rabbitmq-comsumer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/user/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/src/main/java/com/feixiang/tdd/user/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/TicTacToeSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-tdd/src/test/java/com/feixiang/tdd/TicTacToeSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +284,7 @@
       <workItem from="1606398718035" duration="601000" />
       <workItem from="1606534317354" duration="3694000" />
       <workItem from="1606554369496" duration="1865000" />
-      <workItem from="1606985724500" duration="325000" />
+      <workItem from="1606985724500" duration="4771000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -452,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606348119211</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="修改报错，添加算法">
+      <created>1606986493448</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606986493448</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,13 +409,14 @@
     <MESSAGE value="添加rabbitmq" />
     <MESSAGE value="添加rabbitmq demo" />
     <MESSAGE value="添加rabbitmq demo22" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加rabbitmq demo22" />
+    <MESSAGE value="修改报错，添加算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改报错，添加算法" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-36" y="0" key="CommitChangelistDialog2" timestamp="1606986054765">
+    <state x="30" y="0" key="CommitChangelistDialog2" timestamp="1606986491533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-36" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606986054765" />
+    <state x="30" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606986491533" />
     <state x="159" y="54" key="DiffContextDialog" timestamp="1606986040777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -499,26 +425,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606985874679" />
-    <state width="1322" height="136" key="GridCell.Tab.0.bottom" timestamp="1606985947412">
+    <state width="1322" height="254" key="GridCell.Tab.0.bottom" timestamp="1606988749593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606985947412" />
-    <state width="1322" height="136" key="GridCell.Tab.0.center" timestamp="1606985947411">
+    <state width="1322" height="254" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606988749593" />
+    <state width="1322" height="254" key="GridCell.Tab.0.center" timestamp="1606988749592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606985947411" />
-    <state width="1322" height="136" key="GridCell.Tab.0.left" timestamp="1606985947411">
+    <state width="1322" height="254" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606988749592" />
+    <state width="1322" height="254" key="GridCell.Tab.0.left" timestamp="1606988749591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606985947411" />
-    <state width="1322" height="136" key="GridCell.Tab.0.right" timestamp="1606985947412">
+    <state width="1322" height="254" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606988749591" />
+    <state width="1322" height="254" key="GridCell.Tab.0.right" timestamp="1606988749592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606985947412" />
+    <state width="1322" height="254" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606988749592" />
     <state x="71" y="0" key="SettingsEditor" timestamp="1606985878237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606985878237" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606986602137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606986602137" />
     <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

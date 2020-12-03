@@ -54,9 +54,18 @@ public class SingleLinkedListDemo {
         singleLinkedList.printNode();
         System.out.println("=================");
 
+        //5.获取链表的长度
         int length = getLength(singleLinkedList.getHeadNode());
         System.out.printf("链表的长度：%d\n",length);
         System.out.println("=================");
+
+        //6.查看有效节点长度（和上面一样）
+        int size = singleLinkedList.getLength();
+        System.out.println("有效节点长度 size="+size);
+        System.out.println("=================");
+
+        //7.查找单链表中倒数第k个节点
+
     }
 
     //1.获取到单链表的节点的个数(如果是带头结点的链表，需求不统计头节点)
@@ -115,7 +124,9 @@ class SingleLinkedList {
         temp.next = heroNode;
     }
 
-    //2.2 按照no按顺序添加，使用temp节点，找到temp.next.no > heroNode.no时，heroNode.next = temp.next; temp.next = heroNode;
+    //2.2 按照no按顺序添加，使用temp节点，
+    // 找到temp.next.no > heroNode.no时，
+    // heroNode.next = temp.next; temp.next = heroNode;
     public void addOrder(HeroNode heroNode){
         HeroNode temp = headNode;
         boolean flag = false;
@@ -191,6 +202,51 @@ class SingleLinkedList {
             temp = temp.next;
         }
     }
+
+    //6.求单链表中有效节点的个数
+    public int getLength(){
+        HeroNode temp = headNode.next;
+        if(temp == null){
+            return 0;
+        }
+        int length = 0;
+        while(true){
+            length ++;
+            if(temp.next == null){
+                break;
+            }
+            temp = temp.next;
+        }
+        return length;
+    }
+
+    //6.查找单链表中倒数第k个节点
+    //思路：1.获取整个链表的长度
+    //2.获取倒数第二个元素，就是总长度5-2=3，就是正数第3个
+    public HeroNode getLastNode(int lastNum){
+        int length = getLength();
+        //整数第几个元素，5-2=3，第三个元素
+        int index = length - lastNum;
+        HeroNode temp = headNode;
+        int tempCount = 0;
+        while (true){
+
+            if(temp.next == null){
+                throw new RuntimeException("没有元素");
+            }
+            if(index < 0){
+                throw new RuntimeException("没有那么多元素");
+            }
+            if(tempCount == index){
+                break;
+            }
+            tempCount ++;
+            temp = temp.next;
+        }
+        return temp;
+    }
+
+
 }
 
 /**
