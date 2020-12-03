@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="添加esdemo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/target/classes/com/dafei/demo/elasticsearch/UserCURD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" beforeDir="false" />
-    </list>
+    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +274,7 @@
       <workItem from="1578122453274" duration="9947000" />
       <workItem from="1578277174712" duration="5752000" />
       <workItem from="1604651497140" duration="7136000" />
-      <workItem from="1606981345264" duration="1963000" />
+      <workItem from="1606981345264" duration="2003000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -350,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604670867873</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加修改es">
+      <created>1606985214458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606985214458</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -407,7 +410,8 @@
     <MESSAGE value="添加spring annotation demo" />
     <MESSAGE value="修改注解的测试demo" />
     <MESSAGE value="添加esdemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加esdemo" />
+    <MESSAGE value="添加修改es" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加修改es" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1604671394887">
