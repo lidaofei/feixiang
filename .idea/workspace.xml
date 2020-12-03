@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/feixiang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/java/com/dafei/demo/elasticsearch/UserCURD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/target/classes/com/dafei/demo/elasticsearch/UserCURD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="添加esdemo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Autowired.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-tdd/feixiang-tdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/target/classes/com/dafei/demo/elasticsearch/UserCURD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-netty/target/test-classes/com/feixiang/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,12 +213,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestStackDeep" />
+      <item itemvalue="Application.UserCURD" />
       <item itemvalue="JUnit.IOCTest.testImport" />
       <item itemvalue="JUnit.IOCTest_AOP.test01" />
       <item itemvalue="JUnit.IOCTest_Autowired.test01" />
       <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
       <item itemvalue="Spring Boot.FeixiangWebApplication" />
-      <item itemvalue="Application.UserCURD" />
     </list>
     <recent_temporary>
       <list>
@@ -287,7 +277,8 @@
       <workItem from="1578120664381" duration="1633000" />
       <workItem from="1578122453274" duration="9947000" />
       <workItem from="1578277174712" duration="5752000" />
-      <workItem from="1604651497140" duration="6131000" />
+      <workItem from="1604651497140" duration="7136000" />
+      <workItem from="1606981345264" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -352,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578277250512</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加esdemo">
+      <created>1604670867872</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604670867873</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -412,6 +410,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加esdemo" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1604671394887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1604671394887" />
     <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1604670860897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -420,26 +422,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604666650720" />
-    <state width="1322" height="355" key="GridCell.Tab.0.bottom" timestamp="1604670806252">
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom" timestamp="1604671869993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
-    <state width="1322" height="355" key="GridCell.Tab.0.center" timestamp="1604670806252">
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604671869993" />
+    <state width="1322" height="355" key="GridCell.Tab.0.center" timestamp="1604671869992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
-    <state width="1322" height="355" key="GridCell.Tab.0.left" timestamp="1604670806252">
+    <state width="1322" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604671869992" />
+    <state width="1322" height="355" key="GridCell.Tab.0.left" timestamp="1604671869991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
-    <state width="1322" height="355" key="GridCell.Tab.0.right" timestamp="1604670806252">
+    <state width="1322" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604671869991" />
+    <state width="1322" height="355" key="GridCell.Tab.0.right" timestamp="1604671869992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604671869992" />
     <state x="71" y="0" key="SettingsEditor" timestamp="1604669070249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604669070249" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604671443982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604671443982" />
     <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -452,6 +458,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="192" width="1071" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668443545" />
+    <state x="408" y="150" key="git4idea.merge.GitPullDialog" timestamp="1604671401504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1604671401504" />
     <state x="-175" y="215" key="new project wizard" timestamp="1604666594168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
