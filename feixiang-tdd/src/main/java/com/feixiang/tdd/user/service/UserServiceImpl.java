@@ -1,4 +1,6 @@
-package com.feixiang.tdd;
+package com.feixiang.tdd.user.service;
+
+import com.feixiang.tdd.user.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

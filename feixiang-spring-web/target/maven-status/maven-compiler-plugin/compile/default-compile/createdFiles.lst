@@ -1,0 +1,5 @@
+com\feixiang\spring\web\service\UserService.class
+com\feixiang\spring\web\service\impl\UserServiceImpl.class
+com\feixiang\spring\web\common\Result.class
+com\feixiang\spring\web\controller\UserController.class
+com\feixiang\spring\web\model\User.class

@@ -1,0 +1,2 @@
+com.feixiang.demo.spi.annotation.EnableAutoDemoConfig=\
+  com.feixiang.demo.spi.config.DemoAutoConfig

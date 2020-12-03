@@ -1,4 +1,4 @@
-package com.feixiang.tdd;
+package com.feixiang.tdd.user.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -12,7 +12,7 @@
     <artifactId>feixiang-demo-import</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>atguigu-spring-annotation</module>
+<!--        <module>atguigu-spring-annotation</module>-->
     </modules>
 
 
