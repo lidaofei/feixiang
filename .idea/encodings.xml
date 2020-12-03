@@ -2,9 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feixiang-datastructures" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-SPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation" charset="UTF-8" />
@@ -18,9 +20,9 @@
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/MyBeanPostProcessor.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/RainBow.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/bean/Yellow.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/LinuxCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportBeanDefinitionRegistrar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/MyImportSelector.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/condition/WindowsCondition.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java" charset="UTF-8" />
@@ -39,11 +41,13 @@
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Profile.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_PropertyValue.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/feixiang-demo/feixiang-demo-import/atguigu-spring-annotation/src/test/java/com/atguigu/test/IOCTest_Tx.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/feixiang-java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-netty" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-netty/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-rpc" charset="UTF-8" />
@@ -60,5 +64,6 @@
     <file url="file://$PROJECT_DIR$/feixiang-tdd/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feixiang-web/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

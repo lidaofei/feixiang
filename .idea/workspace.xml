@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="" />
+    <list default="true" id="933ef460-d890-47b3-b625-dd7e09acb99e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/feixiang-rabbitmq-comsumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/src/main/java/java/com/itheima/rabbitmq/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/src/main/java/java/com/itheima/rabbitmq/consumer/MyListner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/src/main/resources/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/src/main/resources/resources/spring/spring-rabbitmq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/itheima/rabbitmq/MsgSendConfirmCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/itheima/rabbitmq/MsgSendReturnCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/itheima/rabbitmq/ProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/itheima/rabbitmq/config/RabbitMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/itheima/rabbitmq/controller/SendMsgController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/resources/spring/spring-rabbitmq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/test/java/java/com/itheima/rabbitmq/ProducerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/src/main/java/com/feixiang/rabbitmq/service/demo/Producer02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-rabbitmq/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +56,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="mavenHome" value="F:/jiagou/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.2\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1juQRyZTIyeLNe3YohjqcyN86s0" />
@@ -56,7 +87,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578309748355" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/feixiang-demo/feixiang-demo-elasticsearch/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/feixiang-rabbitmq/feixiang-rabbitmq-comsumer/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -65,24 +96,53 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\resources" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\java" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\test\java" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\main" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\topic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java.com.itheima.rabbitmq" />
+      <recent name="rabbitmq" />
+      <recent name="com.feixiang.rabbitmq.demo.routing" />
+      <recent name="com.feixiang.rabbitmq.demo.ps" />
+      <recent name="com.feixiang.java8.demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.feixiang.web.jvm.java栈.栈上分配" />
-      <recent name="com.feixiang.nio.chatroom" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-elasticsearch\src\main\resources" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\test\java" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\resources" />
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo\feixiang-demo-import\atguigu-spring-annotation\src\main\java" />
-      <recent name="D:\WorkSpace\ldf\feixiang\feixiang\feixiang-spring-web\src\main\resources" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.UserCURD">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ParallelStreamDemoTest.test1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.java8.demo.CompletableFutureDemoTest" />
+      <module name="feixiang-java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feixiang.java8.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,68 +167,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest_AOP.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="atguigu-spring-annotation" />
+    <configuration name="ParallelStreamDemoTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feixiang-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="PATTERN" value="com.feixiang.java8.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_AOP" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.feixiang.java8.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.java8.demo.ParallelStreamDemoTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest_Autowired.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="atguigu-spring-annotation" />
+    <configuration name="StreamDemoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feixiang-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="PATTERN" value="com.feixiang.java8.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_Autowired" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.feixiang.java8.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.java8.demo.StreamDemoTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest_LifeCycle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="atguigu-spring-annotation" />
+    <configuration name="StreamDemoTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feixiang-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="PATTERN" value="com.feixiang.java8.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_LifeCycle" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IOCTest.testImport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="atguigu-spring-annotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest" />
-      <option name="METHOD_NAME" value="testImport" />
+      <option name="PACKAGE_NAME" value="com.feixiang.java8.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.feixiang.java8.demo.StreamDemoTest" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -210,19 +253,19 @@
     <list>
       <item itemvalue="Application.TestStackDeep" />
       <item itemvalue="Application.UserCURD" />
-      <item itemvalue="JUnit.IOCTest.testImport" />
-      <item itemvalue="JUnit.IOCTest_AOP.test01" />
-      <item itemvalue="JUnit.IOCTest_Autowired.test01" />
-      <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
+      <item itemvalue="Application.CompletableFutureDemoTest" />
+      <item itemvalue="JUnit.StreamDemoTest.test" />
+      <item itemvalue="JUnit.StreamDemoTest.test4" />
+      <item itemvalue="JUnit.ParallelStreamDemoTest.test1" />
       <item itemvalue="Spring Boot.FeixiangWebApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ParallelStreamDemoTest.test1" />
+        <item itemvalue="JUnit.StreamDemoTest.test4" />
+        <item itemvalue="JUnit.StreamDemoTest.test" />
+        <item itemvalue="Application.CompletableFutureDemoTest" />
         <item itemvalue="Application.UserCURD" />
-        <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
-        <item itemvalue="JUnit.IOCTest_Autowired.test01" />
-        <item itemvalue="JUnit.IOCTest_AOP.test01" />
-        <item itemvalue="JUnit.IOCTest.testImport" />
       </list>
     </recent_temporary>
   </component>
@@ -273,8 +316,14 @@
       <workItem from="1578120664381" duration="1633000" />
       <workItem from="1578122453274" duration="9947000" />
       <workItem from="1578277174712" duration="5752000" />
-      <workItem from="1604651497140" duration="7136000" />
-      <workItem from="1606981345264" duration="2003000" />
+      <workItem from="1604651497140" duration="6131000" />
+      <workItem from="1606221708249" duration="5277000" />
+      <workItem from="1606231539248" duration="616000" />
+      <workItem from="1606257975797" duration="3705000" />
+      <workItem from="1606344070478" duration="4061000" />
+      <workItem from="1606398718035" duration="601000" />
+      <workItem from="1606534317354" duration="3694000" />
+      <workItem from="1606554369496" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -339,54 +388,29 @@
       <option name="project" value="LOCAL" />
       <updated>1578277250512</updated>
     </task>
-    <task id="LOCAL-00010" summary="添加esdemo">
-      <created>1604670867872</created>
+    <task id="LOCAL-00010" summary="添加java8 demo">
+      <created>1606259447356</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1604670867873</updated>
+      <updated>1606259447356</updated>
     </task>
-    <task id="LOCAL-00011" summary="添加修改es">
-      <created>1606985214458</created>
+    <task id="LOCAL-00011" summary="添加rabbitmq">
+      <created>1606261665866</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1606985214458</updated>
+      <updated>1606261665866</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加rabbitmq demo">
+      <created>1606348119211</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606348119211</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="IOCTest_test03 - 2020.01.04 at 17h 13m 50s.xml">
-      <configuration name="IOCTest.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_testImport - 2020.01.04 at 17h 19m 13s.xml">
-      <configuration name="IOCTest.testImport" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 25m 30s.xml">
-      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 29m 03s.xml">
-      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 39m 31s.xml">
-      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_AOP_test01 - 2020.01.04 at 17h 41m 00s.xml">
-      <configuration name="IOCTest_AOP.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_Autowired_test01 - 2020.01.04 at 17h 45m 49s.xml">
-      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_Autowired_test01 - 2020.01.06 at 10h 25m 18s.xml">
-      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_Autowired_test01 - 2020.01.06 at 18h 23m 48s.xml">
-      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_LifeCycle_test01 - 2020.01.06 at 19h 18m 15s.xml">
-      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -398,7 +422,20 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -410,14 +447,13 @@
     <MESSAGE value="添加spring annotation demo" />
     <MESSAGE value="修改注解的测试demo" />
     <MESSAGE value="添加esdemo" />
-    <MESSAGE value="添加修改es" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加修改es" />
+    <MESSAGE value="添加java8 demo" />
+    <MESSAGE value="添加rabbitmq" />
+    <MESSAGE value="添加rabbitmq demo" />
+    <MESSAGE value="添加rabbitmq demo22" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加rabbitmq demo22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1604671394887">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1604671394887" />
     <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1604670860897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -426,30 +462,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604666650720" />
-    <state width="1322" height="355" key="GridCell.Tab.0.bottom" timestamp="1604671869993">
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom" timestamp="1604670806252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604671869993" />
-    <state width="1322" height="355" key="GridCell.Tab.0.center" timestamp="1604671869992">
+    <state width="1322" height="355" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.center" timestamp="1604670806252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604671869992" />
-    <state width="1322" height="355" key="GridCell.Tab.0.left" timestamp="1604671869991">
+    <state width="1322" height="355" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.left" timestamp="1604670806252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604671869991" />
-    <state width="1322" height="355" key="GridCell.Tab.0.right" timestamp="1604671869992">
+    <state width="1322" height="355" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
+    <state width="1322" height="355" key="GridCell.Tab.0.right" timestamp="1604670806252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604671869992" />
+    <state width="1322" height="355" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604670806252" />
     <state x="71" y="0" key="SettingsEditor" timestamp="1604669070249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604669070249" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604671443982">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604671443982" />
     <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -462,10 +494,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="192" width="1071" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668443545" />
-    <state x="408" y="150" key="git4idea.merge.GitPullDialog" timestamp="1604671401504">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="408" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1604671401504" />
     <state x="-175" y="215" key="new project wizard" timestamp="1604666594168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

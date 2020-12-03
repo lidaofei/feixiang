@@ -12,29 +12,37 @@
         <module name="feixiang-tdd" />
         <module name="feixiang-demo-SPI" />
         <module name="feixiang-rpc-custom-service" />
+        <module name="feixiang-rabbitmq-demo" />
         <module name="feixiang-web" />
+        <module name="feixiang-java" />
         <module name="feixiang-netty" />
         <module name="feixiang-rpc-custom-client" />
         <module name="feixiang-spring-webtwo" />
-        <module name="atguigu-spring-annotation" />
+        <module name="feixiang-datastructures" />
         <module name="feixiangweb" />
-        <module name="feixiang-rabbitmq-client" />
+        <module name="feixiang-rabbitmq-comsumer" />
         <module name="feixiang-spring-web" />
         <module name="feixiang-demo-elasticsearch" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="atguigu-spring-annotation" target="1.8" />
+      <module name="feixiang-rabbitmq-client" target="1.8" />
       <module name="feixiangdemoSPI" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="atguigu-spring-annotation" options="-parameters" />
+      <module name="feixiang-datastructures" options="-parameters" />
       <module name="feixiang-demo-SPI" options="-parameters" />
       <module name="feixiang-demo-elasticsearch" options="-parameters" />
       <module name="feixiang-demo-import" options="" />
+      <module name="feixiang-java" options="-parameters" />
       <module name="feixiang-netty" options="-parameters" />
       <module name="feixiang-rabbitmq-client" options="-parameters" />
+      <module name="feixiang-rabbitmq-comsumer" options="-parameters" />
+      <module name="feixiang-rabbitmq-demo" options="-parameters" />
       <module name="feixiang-rabbitmq-service" options="-parameters" />
       <module name="feixiang-rpc-custom-client" options="-parameters" />
       <module name="feixiang-rpc-custom-service" options="-parameters" />
