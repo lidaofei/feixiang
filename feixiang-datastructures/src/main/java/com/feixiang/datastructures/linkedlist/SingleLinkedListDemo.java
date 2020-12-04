@@ -65,6 +65,14 @@ public class SingleLinkedListDemo {
         System.out.println("=================");
 
         //7.查找单链表中倒数第k个节点
+        int lastNodeNum = 1;
+        HeroNode lastNode = singleLinkedList.getLastNode(lastNodeNum);
+        System.out.println("倒数第"+lastNodeNum+"个，是："+lastNode.toString());
+        System.out.println("=================");
+
+        //8.单链表反序
+        SingleLinkedList reverse = singleLinkedList.reverse();
+        reverse.printNode();
 
     }
 
@@ -222,16 +230,15 @@ class SingleLinkedList {
 
     //6.查找单链表中倒数第k个节点
     //思路：1.获取整个链表的长度
-    //2.获取倒数第二个元素，就是总长度5-2=3，就是正数第3个
+    //2.获取倒数第二个元素，就是总长度5-2+1=4，就是正数第4个
     public HeroNode getLastNode(int lastNum){
         int length = getLength();
-        //整数第几个元素，5-2=3，第三个元素
-        int index = length - lastNum;
-        HeroNode temp = headNode;
-        int tempCount = 0;
+        //整数第几个元素，5-2+1=4，第三个元素
+        int index = length - lastNum + 1;
+        HeroNode temp = headNode.next;
+        int tempCount = 1;
         while (true){
-
-            if(temp.next == null){
+            if(temp == null){
                 throw new RuntimeException("没有元素");
             }
             if(index < 0){
@@ -240,12 +247,43 @@ class SingleLinkedList {
             if(tempCount == index){
                 break;
             }
-            tempCount ++;
             temp = temp.next;
+            tempCount ++;
         }
         return temp;
     }
 
+    //7.单链表反序
+    //思路：只要循环链表，每循环一个节点，就把当前节点放在head节点的后面，同时拼接上head之前拼接的next节点
+    //如：h -> 1 -> 2 -> 3
+    //循环1步：hNew -> 1
+    //2步：hNew -> 2 -> 1
+    //3步：hNew -> 3 -> 2 -> 1
+
+    public SingleLinkedList reverse(){
+        SingleLinkedList reverseLickedList = new SingleLinkedList();
+        //HeroNode headNew = new HeroNode(0,"","");
+        HeroNode headNew = reverseLickedList.getHeadNode();
+        HeroNode tempNote = headNode.next;
+        if(tempNote == null){
+            throw new RuntimeException("链表为空");
+        }
+        HeroNode next = null;
+        while (true){
+            if(tempNote == null){
+                break;
+            }
+            next = tempNote.next;
+            tempNote.next = null;
+
+            HeroNode headNext = headNew.next;
+            headNew.next = tempNote;
+            tempNote.next = headNext;
+
+            tempNote = next;
+        }
+        return reverseLickedList;
+    }
 
 }
 
