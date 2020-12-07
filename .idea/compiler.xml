@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="feixiang-kafka" />
         <module name="feixiang-rpc-demo" />
         <module name="feixiang-rabbitmq-service" />
         <module name="feixiang-tdd" />
@@ -36,9 +37,10 @@
       <module name="atguigu-spring-annotation" options="-parameters" />
       <module name="feixiang-datastructures" options="-parameters" />
       <module name="feixiang-demo-SPI" options="-parameters" />
-      <module name="feixiang-demo-elasticsearch" options="" />
+      <module name="feixiang-demo-elasticsearch" options="-parameters" />
       <module name="feixiang-demo-import" options="" />
       <module name="feixiang-java" options="-parameters" />
+      <module name="feixiang-kafka" options="-parameters" />
       <module name="feixiang-netty" options="-parameters" />
       <module name="feixiang-rabbitmq-client" options="-parameters" />
       <module name="feixiang-rabbitmq-comsumer" options="-parameters" />

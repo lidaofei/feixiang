@@ -25,6 +25,7 @@
         <module>feixiang-tdd</module>
         <module>feixiang-datastructures</module>
         <module>feixiang-java</module>
+        <module>feixiang-kafka</module>
     </modules>
 
     <dependencyManagement>

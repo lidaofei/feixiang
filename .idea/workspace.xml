@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b564ada-341a-4e47-8e41-317eb05388d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feixiang-kafka/feixiang-kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-kafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-kafka/src/main/java/com/feixiang/kafka/demo/producer/ProducerSimpler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +73,12 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\resources" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\java" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\test\java" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\main" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\topic" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="java.com.itheima.rabbitmq" />
@@ -78,12 +87,8 @@
       <recent name="com.feixiang.rabbitmq.demo.ps" />
       <recent name="com.feixiang.java8.demo" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\resources" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\java" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\test\java" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\main" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\topic" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SingleLinkedListDemo">
@@ -285,7 +290,8 @@
       <workItem from="1606534317354" duration="3694000" />
       <workItem from="1606554369496" duration="1865000" />
       <workItem from="1606985724500" duration="5004000" />
-      <workItem from="1607049198124" duration="6518000" />
+      <workItem from="1607049198124" duration="7142000" />
+      <workItem from="1607308173578" duration="5452000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -385,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607005715190</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="单链表倒序">
+      <created>1607070982783</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607070982783</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,46 +448,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606985874679" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1607069846361">
+    <state width="1322" height="227" key="GridCell.Tab.0.bottom" timestamp="1607313314111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607069846361" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1607069846360">
+    <state width="1322" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607313314111" />
+    <state width="1322" height="227" key="GridCell.Tab.0.center" timestamp="1607313314111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607069846360" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1607069846360">
+    <state width="1322" height="227" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607313314111" />
+    <state width="1322" height="227" key="GridCell.Tab.0.left" timestamp="1607313314109">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607069846360" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1607069846361">
+    <state width="1322" height="227" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607313314109" />
+    <state width="1322" height="227" key="GridCell.Tab.0.right" timestamp="1607313314111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607069846361" />
-    <state width="1322" height="194" key="GridCell.Tab.1.bottom" timestamp="1607069723817">
+    <state width="1322" height="227" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607313314111" />
+    <state width="1322" height="194" key="GridCell.Tab.1.bottom" timestamp="1607076186202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607069723817" />
-    <state width="1322" height="194" key="GridCell.Tab.1.center" timestamp="1607069723816">
+    <state width="1322" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607076186202" />
+    <state width="1322" height="194" key="GridCell.Tab.1.center" timestamp="1607076186201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607069723816" />
-    <state width="1322" height="194" key="GridCell.Tab.1.left" timestamp="1607069723816">
+    <state width="1322" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607076186201" />
+    <state width="1322" height="194" key="GridCell.Tab.1.left" timestamp="1607076186201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607069723816" />
-    <state width="1322" height="194" key="GridCell.Tab.1.right" timestamp="1607069723817">
+    <state width="1322" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607076186201" />
+    <state width="1322" height="194" key="GridCell.Tab.1.right" timestamp="1607076186201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607069723817" />
-    <state x="71" y="0" key="SettingsEditor" timestamp="1606985878237">
+    <state width="1322" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607076186201" />
+    <state x="71" y="0" key="SettingsEditor" timestamp="1607327211120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606985878237" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607005908237">
+    <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607327211120" />
+    <state x="404" y="94" width="540" height="524" key="StructurePopup" timestamp="1607327818510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607005908237" />
+    <state x="404" y="94" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1607327818510" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607070992969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607070992969" />
     <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -487,14 +504,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="192" width="1071" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668443545" />
-    <state x="408" y="150" key="git4idea.merge.GitPullDialog" timestamp="1607005727602">
+    <state x="408" y="150" key="git4idea.merge.GitPullDialog" timestamp="1607070986464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="408" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1607005727602" />
-    <state x="-175" y="215" key="new project wizard" timestamp="1604666594168">
+    <state x="408" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1607070986464" />
+    <state x="-5" y="44" key="new project wizard" timestamp="1607312728171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-175" y="215" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604666594168" />
+    <state x="-5" y="44" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1607312728171" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604668646812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
