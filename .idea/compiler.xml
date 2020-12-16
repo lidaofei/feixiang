@@ -19,10 +19,12 @@
         <module name="feixiang-netty" />
         <module name="feixiang-rpc-custom-client" />
         <module name="feixiang-spring-webtwo" />
+        <module name="feixiang-rocketmq" />
         <module name="feixiang-datastructures" />
         <module name="feixiangweb" />
         <module name="feixiang-rabbitmq-comsumer" />
         <module name="feixiang-spring-web" />
+        <module name="feixiang-rocketmq-demo" />
         <module name="feixiang-demo-elasticsearch" />
       </profile>
     </annotationProcessing>
@@ -46,6 +48,8 @@
       <module name="feixiang-rabbitmq-comsumer" options="-parameters" />
       <module name="feixiang-rabbitmq-demo" options="-parameters" />
       <module name="feixiang-rabbitmq-service" options="-parameters" />
+      <module name="feixiang-rocketmq" options="-parameters" />
+      <module name="feixiang-rocketmq-demo" options="-parameters" />
       <module name="feixiang-rpc-custom-client" options="-parameters" />
       <module name="feixiang-rpc-custom-service" options="-parameters" />
       <module name="feixiang-rpc-demo" options="-parameters" />

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b564ada-341a-4e47-8e41-317eb05388d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feixiang-datastructures/src/main/java/com/feixiang/datastructures/linkedlist/CircleSingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/feixiang-rocketmq-demo/feixiang-rocketmq-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/feixiang-rocketmq-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/feixiang-rocketmq-demo/src/main/java/com/feixiang/rocketmq/demo/base/AsyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/feixiang-rocketmq-demo/src/main/java/com/feixiang/rocketmq/demo/base/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/feixiang-rocketmq-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/feixiang-rocketmq-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feixiang-rocketmq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +78,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\resources" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\java" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\test\java" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\main" />
-      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\topic" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\code\feixiang\feixiang-rocketmq" />
+      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="java.com.itheima.rabbitmq" />
@@ -82,8 +89,12 @@
       <recent name="com.feixiang.rabbitmq.demo.ps" />
       <recent name="com.feixiang.java8.demo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Workspaces\code\feixiang\feixiang-demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\resources" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-comsumer\src\main\java" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\test\java" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-service\src\main" />
+      <recent name="F:\work\feixiang\feixiang\feixiang-rabbitmq\feixiang-rabbitmq-demo\src\main\java\com\feixiang\rabbitmq\demo\topic" />
     </key>
   </component>
   <component name="RunManager" selected="Application.CircleSingleLinkedListDemo">
@@ -213,11 +224,11 @@
     <list>
       <item itemvalue="Application.TestStackDeep" />
       <item itemvalue="Application.SingleLinkedListDemo" />
+      <item itemvalue="Application.CircleSingleLinkedListDemo" />
       <item itemvalue="JUnit.StreamDemoTest.test" />
       <item itemvalue="JUnit.StreamDemoTest.test4" />
       <item itemvalue="JUnit.ParallelStreamDemoTest.test1" />
       <item itemvalue="Spring Boot.FeixiangWebApplication" />
-      <item itemvalue="Application.CircleSingleLinkedListDemo" />
     </list>
     <recent_temporary>
       <list>
@@ -286,7 +297,9 @@
       <workItem from="1606554369496" duration="1865000" />
       <workItem from="1606985724500" duration="5004000" />
       <workItem from="1607049198124" duration="7142000" />
-      <workItem from="1607308173578" duration="10381000" />
+      <workItem from="1607308173578" duration="11034000" />
+      <workItem from="1607563445199" duration="259000" />
+      <workItem from="1608107922869" duration="4464000" />
     </task>
     <task id="LOCAL-00001" summary="修改gc测试">
       <created>1557209723374</created>
@@ -400,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607332288827</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加单链表循环链表，解决约瑟夫问题">
+      <created>1607337375407</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607337375407</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,13 +456,14 @@
     <MESSAGE value="添加单链表例子" />
     <MESSAGE value="单链表倒序" />
     <MESSAGE value="添加kafka demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加kafka demo" />
+    <MESSAGE value="添加单链表循环链表，解决约瑟夫问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加单链表循环链表，解决约瑟夫问题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="30" y="0" key="CommitChangelistDialog2" timestamp="1607332286000">
+    <state x="30" y="0" key="CommitChangelistDialog2" timestamp="1607337373534">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="30" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607332286000" />
+    <state x="30" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607337373534" />
     <state x="159" y="54" key="DiffContextDialog" timestamp="1606986040777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -451,22 +472,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606985874679" />
-    <state width="1322" height="171" key="GridCell.Tab.0.bottom" timestamp="1607336657264">
+    <state width="1322" height="196" key="GridCell.Tab.0.bottom" timestamp="1608113014728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607336657264" />
-    <state width="1322" height="171" key="GridCell.Tab.0.center" timestamp="1607336657263">
+    <state width="1322" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608113014728" />
+    <state width="1322" height="196" key="GridCell.Tab.0.center" timestamp="1608113014728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607336657263" />
-    <state width="1322" height="171" key="GridCell.Tab.0.left" timestamp="1607336657263">
+    <state width="1322" height="196" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608113014728" />
+    <state width="1322" height="196" key="GridCell.Tab.0.left" timestamp="1608113014727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607336657262" />
-    <state width="1322" height="171" key="GridCell.Tab.0.right" timestamp="1607336657263">
+    <state width="1322" height="196" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608113014727" />
+    <state width="1322" height="196" key="GridCell.Tab.0.right" timestamp="1608113014728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607336657263" />
+    <state width="1322" height="196" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608113014728" />
     <state width="1322" height="194" key="GridCell.Tab.1.bottom" timestamp="1607076186202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -487,14 +508,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607327211120" />
-    <state x="404" y="94" width="540" height="524" key="StructurePopup" timestamp="1607327818510">
+    <state x="404" y="94" width="564" height="524" key="StructurePopup" timestamp="1608114276343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="404" y="94" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1607327818510" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607332351665">
+    <state x="404" y="94" width="564" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1608114276343" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607337385397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607332351665" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607337385397" />
     <state x="476" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604667575573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -507,14 +528,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="192" width="1071" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604668443545" />
-    <state x="408" y="150" key="git4idea.merge.GitPullDialog" timestamp="1607332341572">
+    <state x="408" y="150" key="git4idea.merge.GitPullDialog" timestamp="1607337379988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="408" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1607332341572" />
-    <state x="-5" y="44" key="new project wizard" timestamp="1607312728171">
+    <state x="408" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1607337379988" />
+    <state x="97" y="22" key="new project wizard" timestamp="1608111564630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-5" y="44" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1607312728171" />
+    <state x="97" y="22" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1608111564630" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604668646812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
